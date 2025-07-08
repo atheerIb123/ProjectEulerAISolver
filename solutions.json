@@ -1,0 +1,6378 @@
+{
+    "0001": {
+        "title": "Multiples of 3 or 5",
+        "solved_by": 1017252,
+        "solution": "233168",
+        "percentage_solved": 76.75137658010571,
+        "points": 1.3029082272632544
+    },
+    "0002": {
+        "title": "Even Fibonacci Numbers",
+        "solved_by": 810470,
+        "solution": "4613732",
+        "percentage_solved": 61.14973298344784,
+        "points": 1.6353301170925512
+    },
+    "0003": {
+        "title": "Largest Prime Factor",
+        "solved_by": 583767,
+        "solution": "6857",
+        "percentage_solved": 44.04505555362739,
+        "points": 2.270402403698736
+    },
+    "0004": {
+        "title": "Largest Palindrome Product",
+        "solved_by": 515958,
+        "solution": "906609",
+        "percentage_solved": 38.92888562275443,
+        "points": 2.5687866066617824
+    },
+    "0005": {
+        "title": "Smallest Multiple",
+        "solved_by": 518525,
+        "solution": "232792560",
+        "percentage_solved": 39.122565048974415,
+        "points": 2.5560696205583144
+    },
+    "0006": {
+        "title": "Sum Square Difference",
+        "solved_by": 522056,
+        "solution": "25164150",
+        "percentage_solved": 39.3889780033892,
+        "points": 2.5387812801691774
+    },
+    "0007": {
+        "title": "$10\\,001$st Prime",
+        "solved_by": 446556,
+        "solution": "104743",
+        "percentage_solved": 33.692524291036726,
+        "points": 2.968017449099329
+    },
+    "0008": {
+        "title": "Largest Product in a Series",
+        "solved_by": 374292,
+        "solution": "23514624000",
+        "percentage_solved": 28.24022586627594,
+        "points": 3.5410481656033257
+    },
+    "0009": {
+        "title": "Special Pythagorean Triplet",
+        "solved_by": 379461,
+        "solution": "31875000",
+        "percentage_solved": 28.630225458847463,
+        "points": 3.4928121730559925
+    },
+    "0010": {
+        "title": "Summation of Primes",
+        "solved_by": 348419,
+        "solution": "142913828922",
+        "percentage_solved": 26.28811531131308,
+        "points": 3.8040003558933355
+    },
+    "0011": {
+        "title": "Largest Product in a Grid",
+        "solved_by": 250225,
+        "solution": "70600674",
+        "percentage_solved": 18.879405697660907,
+        "points": 5.29677690078929
+    },
+    "0012": {
+        "title": "Highly Divisible Triangular Number",
+        "solved_by": 236823,
+        "solution": "76576500",
+        "percentage_solved": 17.86822857642981,
+        "points": 5.596525675293362
+    },
+    "0013": {
+        "title": "Large Sum",
+        "solved_by": 241996,
+        "solution": "5537376230",
+        "percentage_solved": 18.25852996787351,
+        "points": 5.4768921800360335
+    },
+    "0014": {
+        "title": "Longest Collatz Sequence",
+        "solved_by": 242545,
+        "solution": "837799",
+        "percentage_solved": 18.299951863079887,
+        "points": 5.464495248304439
+    },
+    "0015": {
+        "title": "Lattice Paths",
+        "solved_by": 200527,
+        "solution": "137846528820",
+        "percentage_solved": 15.129705610290134,
+        "points": 6.609513930792362
+    },
+    "0016": {
+        "title": "Power Digit Sum",
+        "solved_by": 244737,
+        "solution": "1366",
+        "percentage_solved": 18.46533764503322,
+        "points": 5.415552205020083
+    },
+    "0017": {
+        "title": "Number Letter Counts",
+        "solved_by": 162857,
+        "solution": "21124",
+        "percentage_solved": 12.287514731557449,
+        "points": 8.138342226615988
+    },
+    "0018": {
+        "title": "Maximum Path Sum I",
+        "solved_by": 155961,
+        "solution": "1074",
+        "percentage_solved": 11.76721347592324,
+        "points": 8.498188649726535
+    },
+    "0019": {
+        "title": "Counting Sundays",
+        "solved_by": 144797,
+        "solution": "171",
+        "percentage_solved": 10.924892823675519,
+        "points": 9.153407874472537
+    },
+    "0020": {
+        "title": "Factorial Digit Sum",
+        "solved_by": 211715,
+        "solution": "648",
+        "percentage_solved": 15.973837055770923,
+        "points": 6.260236638877736
+    },
+    "0021": {
+        "title": "Amicable Numbers",
+        "solved_by": 157253,
+        "solution": "31626",
+        "percentage_solved": 11.864694511636609,
+        "points": 8.428367026384235
+    },
+    "0022": {
+        "title": "Names Scores",
+        "solved_by": 144486,
+        "solution": "871198282",
+        "percentage_solved": 10.901427961363709,
+        "points": 9.173110197527787
+    },
+    "0023": {
+        "title": "Non-Abundant Sums",
+        "solved_by": 112898,
+        "solution": "4179871",
+        "percentage_solved": 8.518122267777084,
+        "points": 11.739676522170456
+    },
+    "0024": {
+        "title": "Lexicographic Permutations",
+        "solved_by": 123630,
+        "solution": "2783915460",
+        "percentage_solved": 9.327848641829625,
+        "points": 10.720585618377417
+    },
+    "0025": {
+        "title": "$1000$-digit Fibonacci Number",
+        "solved_by": 166761,
+        "solution": "4782",
+        "percentage_solved": 12.5820704308028,
+        "points": 7.947817535275035
+    },
+    "0026": {
+        "title": "Reciprocal Cycles",
+        "solved_by": 91288,
+        "solution": "983",
+        "percentage_solved": 6.887653860837522,
+        "points": 14.518731925335203
+    },
+    "0027": {
+        "title": "Quadratic Primes",
+        "solved_by": 94735,
+        "solution": "-59231",
+        "percentage_solved": 7.147729038936581,
+        "points": 13.99045759223096
+    },
+    "0028": {
+        "title": "Number Spiral Diagonals",
+        "solved_by": 115967,
+        "solution": "669171001",
+        "percentage_solved": 8.74967745245536,
+        "points": 11.428992730690627
+    },
+    "0029": {
+        "title": "Distinct Powers",
+        "solved_by": 113843,
+        "solution": "9183",
+        "percentage_solved": 8.589422251329047,
+        "points": 11.642226575195664
+    },
+    "0030": {
+        "title": "Digit Fifth Powers",
+        "solved_by": 118459,
+        "solution": "443839",
+        "percentage_solved": 8.937698149822014,
+        "points": 11.188563131547625
+    },
+    "0031": {
+        "title": "Coin Sums",
+        "solved_by": 92445,
+        "solution": "73682",
+        "percentage_solved": 6.974949184614896,
+        "points": 14.337022013088864
+    },
+    "0032": {
+        "title": "Pandigital Products",
+        "solved_by": 77584,
+        "solution": "45228",
+        "percentage_solved": 5.853690924757014,
+        "points": 17.08323881212621
+    },
+    "0033": {
+        "title": "Digit Cancelling Fractions",
+        "solved_by": 77850,
+        "solution": "100",
+        "percentage_solved": 5.873760549756827,
+        "points": 17.024868336544635
+    },
+    "0034": {
+        "title": "Digit Factorials",
+        "solved_by": 101725,
+        "solution": "40730",
+        "percentage_solved": 7.675122568066963,
+        "points": 13.029107888916196
+    },
+    "0035": {
+        "title": "Circular Primes",
+        "solved_by": 91632,
+        "solution": "55",
+        "percentage_solved": 6.913608563844797,
+        "points": 14.4642264711018
+    },
+    "0036": {
+        "title": "Double-base Palindromes",
+        "solved_by": 95760,
+        "solution": "872187",
+        "percentage_solved": 7.225064999932095,
+        "points": 13.840705931495405
+    },
+    "0037": {
+        "title": "Truncatable Primes",
+        "solved_by": 79786,
+        "solution": "748317",
+        "percentage_solved": 6.019831203890791,
+        "points": 16.61176146191061
+    },
+    "0038": {
+        "title": "Pandigital Multiples",
+        "solved_by": 68533,
+        "solution": "932718654",
+        "percentage_solved": 5.170795526737117,
+        "points": 19.33938394641997
+    },
+    "0039": {
+        "title": "Integer Right Triangles",
+        "solved_by": 79285,
+        "solution": "840",
+        "percentage_solved": 5.982030895150545,
+        "points": 16.71673078135839
+    },
+    "0040": {
+        "title": "Champernowne's Constant",
+        "solved_by": 86443,
+        "solution": "210",
+        "percentage_solved": 6.522099976912386,
+        "points": 15.332484990109089
+    },
+    "0041": {
+        "title": "Pandigital Prime",
+        "solved_by": 74075,
+        "solution": "7652413",
+        "percentage_solved": 5.588937864139202,
+        "points": 17.8924873439082
+    },
+    "0042": {
+        "title": "Coded Triangle Numbers",
+        "solved_by": 80336,
+        "solution": "162",
+        "percentage_solved": 6.061328548815212,
+        "points": 16.498033260306713
+    },
+    "0043": {
+        "title": "Sub-string Divisibility",
+        "solved_by": 65216,
+        "solution": "16695334890",
+        "percentage_solved": 4.9205288119838295,
+        "points": 20.323018891069676
+    },
+    "0044": {
+        "title": "Pentagon Numbers",
+        "solved_by": 63855,
+        "solution": "5482660",
+        "percentage_solved": 4.817841745725397,
+        "points": 20.756181974786625
+    },
+    "0045": {
+        "title": "Triangular, Pentagonal, and Hexagonal",
+        "solved_by": 76680,
+        "solution": "1533776805",
+        "percentage_solved": 5.785484379644873,
+        "points": 17.284637454355764
+    },
+    "0046": {
+        "title": "Goldbach's Other Conjecture",
+        "solved_by": 67142,
+        "solution": "5777",
+        "percentage_solved": 5.065844968937351,
+        "points": 19.740043489916893
+    },
+    "0047": {
+        "title": "Distinct Primes Factors",
+        "solved_by": 63214,
+        "solution": "134043",
+        "percentage_solved": 4.769478476458933,
+        "points": 20.966652956623534
+    },
+    "0048": {
+        "title": "Self Powers",
+        "solved_by": 120073,
+        "solution": "9110846700",
+        "percentage_solved": 9.059473994745682,
+        "points": 11.038168447527754
+    },
+    "0049": {
+        "title": "Prime Permutations",
+        "solved_by": 63046,
+        "solution": "296962999629",
+        "percentage_solved": 4.756802923827474,
+        "points": 21.022523237001554
+    },
+    "0050": {
+        "title": "Consecutive Prime Sum",
+        "solved_by": 68029,
+        "solution": "997651",
+        "percentage_solved": 5.132768868842737,
+        "points": 19.482661805994503
+    },
+    "0051": {
+        "title": "Prime Digit Replacements",
+        "solved_by": 37728,
+        "solution": "121313",
+        "percentage_solved": 2.8465669623792613,
+        "points": 35.13003604749788
+    },
+    "0052": {
+        "title": "Permuted Multiples",
+        "solved_by": 70599,
+        "solution": "142857",
+        "percentage_solved": 5.326674644216855,
+        "points": 18.773438717262284
+    },
+    "0053": {
+        "title": "Combinatoric Selections",
+        "solved_by": 63765,
+        "solution": "4075",
+        "percentage_solved": 4.8110512711014,
+        "points": 20.78547792676233
+    },
+    "0054": {
+        "title": "Poker Hands",
+        "solved_by": 39625,
+        "solution": "376",
+        "percentage_solved": 2.9896950775094955,
+        "points": 33.44822712933754
+    },
+    "0055": {
+        "title": "Lychrel Numbers",
+        "solved_by": 58316,
+        "solution": "249",
+        "percentage_solved": 4.399925757477444,
+        "points": 22.72765621784759
+    },
+    "0056": {
+        "title": "Powerful Digit Sum",
+        "solved_by": 63043,
+        "solution": "972",
+        "percentage_solved": 4.75657657467334,
+        "points": 21.023523626730963
+    },
+    "0057": {
+        "title": "Square Root Convergents",
+        "solved_by": 45508,
+        "solution": "153",
+        "percentage_solved": 3.4335657687647223,
+        "points": 29.124241891535554
+    },
+    "0058": {
+        "title": "Spiral Primes",
+        "solved_by": 43912,
+        "solution": "26241",
+        "percentage_solved": 3.3131480187658537,
+        "points": 30.18277464018947
+    },
+    "0059": {
+        "title": "XOR Decryption",
+        "solved_by": 44836,
+        "solution": "129448",
+        "percentage_solved": 3.382863558238883,
+        "points": 29.5607547506468
+    },
+    "0060": {
+        "title": "Prime Pair Sets",
+        "solved_by": 29858,
+        "solution": "26033",
+        "percentage_solved": 2.2527776813698046,
+        "points": 44.38964431643111
+    },
+    "0061": {
+        "title": "Cyclical Figurate Numbers",
+        "solved_by": 28261,
+        "solution": "28684",
+        "percentage_solved": 2.132284481652892,
+        "points": 46.89805739358126
+    },
+    "0062": {
+        "title": "Cubic Permutations",
+        "solved_by": 34779,
+        "solution": "127035954683",
+        "percentage_solved": 2.6240657438663155,
+        "points": 38.10880128813364
+    },
+    "0063": {
+        "title": "Powerful Digit Counts",
+        "solved_by": 46975,
+        "solution": "49",
+        "percentage_solved": 3.5442505051358624,
+        "points": 28.214709952102183
+    },
+    "0064": {
+        "title": "Odd Period Square Roots",
+        "solved_by": 24529,
+        "solution": "1322",
+        "percentage_solved": 1.8507061339111777,
+        "points": 54.033429817766724
+    },
+    "0065": {
+        "title": "Convergents of $e$",
+        "solved_by": 32846,
+        "solution": "272",
+        "percentage_solved": 2.478221438886483,
+        "points": 40.35151921086281
+    },
+    "0066": {
+        "title": "Diophantine Equation",
+        "solved_by": 21943,
+        "solution": "661",
+        "percentage_solved": 1.6555931630483496,
+        "points": 60.40131249145514
+    },
+    "0067": {
+        "title": "Maximum Path Sum II",
+        "solved_by": 102576,
+        "solution": "7273",
+        "percentage_solved": 7.73933027812275,
+        "points": 12.921014662299173
+    },
+    "0068": {
+        "title": "Magic 5-gon Ring",
+        "solved_by": 23023,
+        "solution": "6531031914842725",
+        "percentage_solved": 1.7370788585363055,
+        "points": 57.56791035051905
+    },
+    "0069": {
+        "title": "Totient Maximum",
+        "solved_by": 38321,
+        "solution": "510510",
+        "percentage_solved": 2.891308645179593,
+        "points": 34.58641475953133
+    },
+    "0070": {
+        "title": "Totient Permutation",
+        "solved_by": 24712,
+        "solution": "8319823",
+        "percentage_solved": 1.8645134323133032,
+        "points": 53.63329556490774
+    },
+    "0071": {
+        "title": "Ordered Fractions",
+        "solved_by": 32122,
+        "solution": "428570",
+        "percentage_solved": 2.4235958430223348,
+        "points": 41.261004918747275
+    },
+    "0072": {
+        "title": "Counting Fractions",
+        "solved_by": 24746,
+        "solution": "303963552391",
+        "percentage_solved": 1.867078722726813,
+        "points": 53.55960559282308
+    },
+    "0073": {
+        "title": "Counting Fractions in a Range",
+        "solved_by": 27491,
+        "solution": "7295372",
+        "percentage_solved": 2.074188198758701,
+        "points": 48.21163289803936
+    },
+    "0074": {
+        "title": "Digit Factorial Chains",
+        "solved_by": 29391,
+        "solution": "402",
+        "percentage_solved": 2.2175426630430684,
+        "points": 45.094961042496
+    },
+    "0075": {
+        "title": "Singular Integer Right Triangles",
+        "solved_by": 20055,
+        "solution": "161667",
+        "percentage_solved": 1.5131440953805155,
+        "points": 66.08755921216654
+    },
+    "0076": {
+        "title": "Counting Summations",
+        "solved_by": 31296,
+        "solution": "190569291",
+        "percentage_solved": 2.3612743759176573,
+        "points": 42.350012781186095
+    },
+    "0077": {
+        "title": "Prime Summations",
+        "solved_by": 21340,
+        "solution": "71",
+        "percentage_solved": 1.6100969830675742,
+        "points": 62.108059981255856
+    },
+    "0078": {
+        "title": "Coin Partitions",
+        "solved_by": 18933,
+        "solution": "55374",
+        "percentage_solved": 1.4284895117346945,
+        "points": 70.0040141551788
+    },
+    "0079": {
+        "title": "Passcode Derivation",
+        "solved_by": 44101,
+        "solution": "73162890",
+        "percentage_solved": 3.327408015476246,
+        "points": 30.053422824879256
+    },
+    "0080": {
+        "title": "Square Root Digital Expansion",
+        "solved_by": 21933,
+        "solution": "40886",
+        "percentage_solved": 1.6548386658679057,
+        "points": 60.428851502302464
+    },
+    "0081": {
+        "title": "Path Sum: Two Ways",
+        "solved_by": 37397,
+        "solution": "427337",
+        "percentage_solved": 2.821593105706564,
+        "points": 35.44097120089847
+    },
+    "0082": {
+        "title": "Path Sum: Three Ways",
+        "solved_by": 23216,
+        "solution": "260324",
+        "percentage_solved": 1.7516406541188756,
+        "points": 57.08933494141971
+    },
+    "0083": {
+        "title": "Path Sum: Four Ways",
+        "solved_by": 20134,
+        "solution": "425185",
+        "percentage_solved": 1.5191046231060237,
+        "points": 65.82825072017482
+    },
+    "0084": {
+        "title": "Monopoly Odds",
+        "solved_by": 14119,
+        "solution": "101524",
+        "percentage_solved": 1.0652745690689354,
+        "points": 93.87251221757914
+    },
+    "0085": {
+        "title": "Counting Rectangles",
+        "solved_by": 27106,
+        "solution": "2772",
+        "percentage_solved": 2.045140057311606,
+        "points": 48.8964066996237
+    },
+    "0086": {
+        "title": "Cuboid Route",
+        "solved_by": 14197,
+        "solution": "1818",
+        "percentage_solved": 1.0711596470763989,
+        "points": 93.35676551384095
+    },
+    "0087": {
+        "title": "Prime Power Triples",
+        "solved_by": 22998,
+        "solution": "1097343",
+        "percentage_solved": 1.7351926155851956,
+        "points": 57.63048960779198
+    },
+    "0088": {
+        "title": "Product-sum Numbers",
+        "solved_by": 11412,
+        "solution": "7587457",
+        "percentage_solved": 0.8610321823227347,
+        "points": 116.13967753242201
+    },
+    "0089": {
+        "title": "Roman Numerals",
+        "solved_by": 23110,
+        "solution": "743",
+        "percentage_solved": 1.7436429840061687,
+        "points": 57.35118996105582
+    },
+    "0090": {
+        "title": "Cube Digit Pairs",
+        "solved_by": 12713,
+        "solution": "1217",
+        "percentage_solved": 0.9591922654985039,
+        "points": 104.25438527491544
+    },
+    "0091": {
+        "title": "Right Triangles with Integer Coordinates",
+        "solved_by": 17151,
+        "solution": "14234",
+        "percentage_solved": 1.2940381141795674,
+        "points": 77.27747653198064
+    },
+    "0092": {
+        "title": "Square Digit Chains",
+        "solved_by": 44944,
+        "solution": "8581146",
+        "percentage_solved": 3.391012127787678,
+        "points": 29.489720541117837
+    },
+    "0093": {
+        "title": "Arithmetic Expressions",
+        "solved_by": 13236,
+        "solution": "1258",
+        "percentage_solved": 0.9986524680357269,
+        "points": 100.13493502568753
+    },
+    "0094": {
+        "title": "Almost Equilateral Triangles",
+        "solved_by": 13920,
+        "solution": "518408346",
+        "percentage_solved": 1.050260075178099,
+        "points": 95.21451149425287
+    },
+    "0095": {
+        "title": "Amicable Chains",
+        "solved_by": 16021,
+        "solution": "14316",
+        "percentage_solved": 1.208779932789391,
+        "points": 82.7280444416703
+    },
+    "0096": {
+        "title": "Su Doku",
+        "solved_by": 18981,
+        "solution": "24702",
+        "percentage_solved": 1.432111098200826,
+        "points": 69.82698487961646
+    },
+    "0097": {
+        "title": "Large Non-Mersenne Prime",
+        "solved_by": 46474,
+        "solution": "8739992577",
+        "percentage_solved": 3.5064501963956163,
+        "points": 28.518870766450057
+    },
+    "0098": {
+        "title": "Anagramic Squares",
+        "solved_by": 12771,
+        "solution": "18769",
+        "percentage_solved": 0.9635683491450793,
+        "points": 103.78090987393313
+    },
+    "0099": {
+        "title": "Largest Exponential",
+        "solved_by": 33361,
+        "solution": "709",
+        "percentage_solved": 2.517078043679351,
+        "points": 39.72860525763616
+    },
+    "0100": {
+        "title": "Arranged Probability",
+        "solved_by": 18171,
+        "solution": "756872327473",
+        "percentage_solved": 1.370996826584859,
+        "points": 72.93962907930218
+    },
+    "0101": {
+        "title": "Optimum Polynomial",
+        "solved_by": 12905,
+        "solution": "37076114526",
+        "percentage_solved": 0.9736786113630294,
+        "points": 102.70329329717164
+    },
+    "0102": {
+        "title": "Triangle Containment",
+        "solved_by": 23979,
+        "solution": "228",
+        "percentage_solved": 1.8092087889867556,
+        "points": 55.272780349472455
+    },
+    "0103": {
+        "title": "Special Subset Sums: Optimum",
+        "solved_by": 9051,
+        "solution": "20313839404245",
+        "percentage_solved": 0.6828953980198975,
+        "points": 146.43531101535743
+    },
+    "0104": {
+        "title": "Pandigital Fibonacci Ends",
+        "solved_by": 17720,
+        "solution": "329468",
+        "percentage_solved": 1.336969003746833,
+        "points": 74.79604966139955
+    },
+    "0105": {
+        "title": "Special Subset Sums: Testing",
+        "solved_by": 8988,
+        "solution": "73702",
+        "percentage_solved": 0.6781420657831001,
+        "points": 147.46172674677348
+    },
+    "0106": {
+        "title": "Special Subset Sums: Meta-testing",
+        "solved_by": 7188,
+        "solution": "21384",
+        "percentage_solved": 0.5423325733031735,
+        "points": 184.38870339454647
+    },
+    "0107": {
+        "title": "Minimal Network",
+        "solved_by": 12130,
+        "solution": "259679",
+        "percentage_solved": 0.9152050798786164,
+        "points": 109.2651277823578
+    },
+    "0108": {
+        "title": "Diophantine Reciprocals I",
+        "solved_by": 13951,
+        "solution": "180180",
+        "percentage_solved": 1.0525990164374757,
+        "points": 95.00293885742957
+    },
+    "0109": {
+        "title": "Darts",
+        "solved_by": 9051,
+        "solution": "38182",
+        "percentage_solved": 0.6828953980198975,
+        "points": 146.43531101535743
+    },
+    "0110": {
+        "title": "Diophantine Reciprocals II",
+        "solved_by": 9015,
+        "solution": "9350130049860600",
+        "percentage_solved": 0.6801792081702991,
+        "points": 147.02007764836384
+    },
+    "0111": {
+        "title": "Primes with Runs",
+        "solved_by": 8110,
+        "solution": "612407567715",
+        "percentage_solved": 0.6118972133401138,
+        "points": 163.42614056720097
+    },
+    "0112": {
+        "title": "Bouncy Numbers",
+        "solved_by": 26729,
+        "solution": "1587000",
+        "percentage_solved": 2.0166955136088656,
+        "points": 49.586067567061995
+    },
+    "0113": {
+        "title": "Non-bouncy Numbers",
+        "solved_by": 12163,
+        "solution": "51161058134250",
+        "percentage_solved": 0.9176949205740818,
+        "points": 108.96867549124394
+    },
+    "0114": {
+        "title": "Counting Block Combinations I",
+        "solved_by": 11974,
+        "solution": "16475640049",
+        "percentage_solved": 0.9034349238636895,
+        "points": 110.68865876064807
+    },
+    "0115": {
+        "title": "Counting Block Combinations II",
+        "solved_by": 10941,
+        "solution": "168",
+        "percentage_solved": 0.8254953651238205,
+        "points": 121.13938396855863
+    },
+    "0116": {
+        "title": "Red, Green or Blue Tiles",
+        "solved_by": 13296,
+        "solution": "20492570929",
+        "percentage_solved": 1.0031794511183911,
+        "points": 99.68306257521058
+    },
+    "0117": {
+        "title": "Red, Green, and Blue Tiles",
+        "solved_by": 12267,
+        "solution": "100808458960497",
+        "percentage_solved": 0.9255416912506997,
+        "points": 108.04483573815929
+    },
+    "0118": {
+        "title": "Pandigital Prime Sets",
+        "solved_by": 7799,
+        "solution": "44680",
+        "percentage_solved": 0.5884323510283042,
+        "points": 169.94306962431082
+    },
+    "0119": {
+        "title": "Digit Power Sum",
+        "solved_by": 13524,
+        "solution": "248155780267521",
+        "percentage_solved": 1.0203819868325152,
+        "points": 98.0025140490979
+    },
+    "0120": {
+        "title": "Square Remainders",
+        "solved_by": 15081,
+        "solution": "333082500",
+        "percentage_solved": 1.1378571978276517,
+        "points": 87.88449041840727
+    },
+    "0121": {
+        "title": "Disc Game Prize Fund",
+        "solved_by": 10677,
+        "solution": "2269",
+        "percentage_solved": 0.805576639560098,
+        "points": 124.13468202678655
+    },
+    "0122": {
+        "title": "Efficient Exponentiation",
+        "solved_by": 8685,
+        "solution": "1582",
+        "percentage_solved": 0.6552808012156459,
+        "points": 152.60633275762808
+    },
+    "0123": {
+        "title": "Prime Square Remainders",
+        "solved_by": 12613,
+        "solution": "21035",
+        "percentage_solved": 0.9516472936940634,
+        "points": 105.08094822801871
+    },
+    "0124": {
+        "title": "Ordered Radicals",
+        "solved_by": 14880,
+        "solution": "21417",
+        "percentage_solved": 1.1226918045007266,
+        "points": 89.07163978494624
+    },
+    "0125": {
+        "title": "Palindromic Sums",
+        "solved_by": 14826,
+        "solution": "2906969179",
+        "percentage_solved": 1.1186175197263288,
+        "points": 89.39606097396465
+    },
+    "0126": {
+        "title": "Cuboid Layers",
+        "solved_by": 5306,
+        "solution": "18522",
+        "percentage_solved": 0.40033620394360586,
+        "points": 249.7900490011308
+    },
+    "0127": {
+        "title": "abc-hits",
+        "solved_by": 6970,
+        "solution": "18407904",
+        "percentage_solved": 0.5258845347694936,
+        "points": 190.1558106169297
+    },
+    "0128": {
+        "title": "Hexagonal Tile Differences",
+        "solved_by": 5570,
+        "solution": "14516824220",
+        "percentage_solved": 0.4202549295073284,
+        "points": 237.9508078994614
+    },
+    "0129": {
+        "title": "Repunit Divisibility",
+        "solved_by": 6975,
+        "solution": "1000023",
+        "percentage_solved": 0.5262617833597156,
+        "points": 190.0194982078853
+    },
+    "0130": {
+        "title": "Composites with Prime Repunit Property",
+        "solved_by": 6555,
+        "solution": "149253",
+        "percentage_solved": 0.49457290178106605,
+        "points": 202.1946605644546
+    },
+    "0131": {
+        "title": "Prime Cube Partnership",
+        "solved_by": 8152,
+        "solution": "173",
+        "percentage_solved": 0.6150661014979787,
+        "points": 162.5841511285574
+    },
+    "0132": {
+        "title": "Large Repunit Factors",
+        "solved_by": 7021,
+        "solution": "843296",
+        "percentage_solved": 0.5297324703897581,
+        "points": 188.77453354223044
+    },
+    "0133": {
+        "title": "Repunit Nonfactors",
+        "solved_by": 6145,
+        "solution": "453647705",
+        "percentage_solved": 0.4636385173828605,
+        "points": 215.6852725793328
+    },
+    "0134": {
+        "title": "Prime Pair Connection",
+        "solved_by": 7754,
+        "solution": "18613426663617118",
+        "percentage_solved": 0.5850371137163061,
+        "points": 170.92932679907145
+    },
+    "0135": {
+        "title": "Same Differences",
+        "solved_by": 7110,
+        "solution": "4989",
+        "percentage_solved": 0.5364474952957101,
+        "points": 186.41153305203937
+    },
+    "0136": {
+        "title": "Singleton Difference",
+        "solved_by": 6332,
+        "solution": "2544559",
+        "percentage_solved": 0.47774761465716403,
+        "points": 209.31554011370815
+    },
+    "0137": {
+        "title": "Fibonacci Golden Nuggets",
+        "solved_by": 6162,
+        "solution": "1120149658760",
+        "percentage_solved": 0.4649211625896154,
+        "points": 215.09023044466082
+    },
+    "0138": {
+        "title": "Special Isosceles Triangles",
+        "solved_by": 6472,
+        "solution": "1118049290473932",
+        "percentage_solved": 0.48831057518338056,
+        "points": 204.78770086526575
+    },
+    "0139": {
+        "title": "Pythagorean Tiles",
+        "solved_by": 6274,
+        "solution": "10057761",
+        "percentage_solved": 0.4733715310105886,
+        "points": 211.25055785782595
+    },
+    "0140": {
+        "title": "Modified Fibonacci Golden Nuggets",
+        "solved_by": 4847,
+        "solution": "5673835352990",
+        "percentage_solved": 0.3657047833612246,
+        "points": 273.44460491025376
+    },
+    "0141": {
+        "title": "Square Progressive Numbers",
+        "solved_by": 4408,
+        "solution": "878454337159",
+        "percentage_solved": 0.33258235713973133,
+        "points": 300.6774047186933
+    },
+    "0142": {
+        "title": "Perfect Square Collection",
+        "solved_by": 6418,
+        "solution": "1006193",
+        "percentage_solved": 0.48423629040898275,
+        "points": 206.51075101277655
+    },
+    "0143": {
+        "title": "Torricelli Triangles",
+        "solved_by": 3084,
+        "solution": "30758397",
+        "percentage_solved": 0.23268693044894093,
+        "points": 429.76199740596627
+    },
+    "0144": {
+        "title": "Laser Beam Reflections",
+        "solved_by": 6941,
+        "solution": "354",
+        "percentage_solved": 0.5236964929462059,
+        "points": 190.95029534649186
+    },
+    "0145": {
+        "title": "Reversible Numbers",
+        "solved_by": 18047,
+        "solution": "608720",
+        "percentage_solved": 1.3616410615473529,
+        "points": 73.4407934836815
+    },
+    "0146": {
+        "title": "Investigating a Prime Pattern",
+        "solved_by": 5640,
+        "solution": "676333270",
+        "percentage_solved": 0.4255364097704367,
+        "points": 234.99751773049644
+    },
+    "0147": {
+        "title": "Rectangles in Cross-hatched Grids",
+        "solved_by": 3384,
+        "solution": "846910284",
+        "percentage_solved": 0.25532184586226203,
+        "points": 391.6625295508274
+    },
+    "0148": {
+        "title": "Exploring Pascal's Triangle",
+        "solved_by": 5694,
+        "solution": "2129970655314432",
+        "percentage_solved": 0.42961069454483447,
+        "points": 232.7688795223042
+    },
+    "0149": {
+        "title": "Maximum-sum Subsequence",
+        "solved_by": 5327,
+        "solution": "52852124",
+        "percentage_solved": 0.40192064802253835,
+        "points": 248.8053313309555
+    },
+    "0150": {
+        "title": "Sub-triangle Sums",
+        "solved_by": 4370,
+        "solution": "-271248680",
+        "percentage_solved": 0.32971526785404404,
+        "points": 303.2919908466819
+    },
+    "0151": {
+        "title": "A Preference for A5",
+        "solved_by": 6109,
+        "solution": "0.464399",
+        "percentage_solved": 0.460922327533262,
+        "points": 216.95629399247014
+    },
+    "0152": {
+        "title": "Sums of Square Reciprocals",
+        "solved_by": 3008,
+        "solution": "301",
+        "percentage_solved": 0.22695275187756625,
+        "points": 440.62034574468083
+    },
+    "0153": {
+        "title": "Investigating Gaussian Integers",
+        "solved_by": 2924,
+        "solution": "17971254122360635",
+        "percentage_solved": 0.22061497556183635,
+        "points": 453.2783857729138
+    },
+    "0154": {
+        "title": "Exploring Pascal's Pyramid",
+        "solved_by": 2928,
+        "solution": "479742450",
+        "percentage_solved": 0.22091677443401395,
+        "points": 452.6591530054645
+    },
+    "0155": {
+        "title": "Counting Capacitor Circuits",
+        "solved_by": 3989,
+        "solution": "3857447",
+        "percentage_solved": 0.3009689252791263,
+        "points": 332.2602155928804
+    },
+    "0156": {
+        "title": "Counting Digits",
+        "solved_by": 2724,
+        "solution": "21295121502550",
+        "percentage_solved": 0.20552503195295557,
+        "points": 486.5587371512482
+    },
+    "0157": {
+        "title": "Base-10 Diophantine Reciprocal",
+        "solved_by": 3024,
+        "solution": "53490",
+        "percentage_solved": 0.2281599473662767,
+        "points": 438.28902116402116
+    },
+    "0158": {
+        "title": "Lexicographical Neighbours",
+        "solved_by": 4008,
+        "solution": "409511334375",
+        "percentage_solved": 0.3024024699219699,
+        "points": 330.68512974051896
+    },
+    "0159": {
+        "title": "Digital Root Sums of Factorisations",
+        "solved_by": 3622,
+        "solution": "14489159",
+        "percentage_solved": 0.2732788787568301,
+        "points": 365.926559911651
+    },
+    "0160": {
+        "title": "Factorial Trailing Digits",
+        "solved_by": 3893,
+        "solution": "16576",
+        "percentage_solved": 0.2937257523468635,
+        "points": 340.4536347290008
+    },
+    "0161": {
+        "title": "Triominoes",
+        "solved_by": 2388,
+        "solution": "20574308184277971",
+        "percentage_solved": 0.18017392669003596,
+        "points": 555.0192629815746
+    },
+    "0162": {
+        "title": "Hexadecimal Numbers",
+        "solved_by": 5845,
+        "solution": "3D58725572C62302",
+        "percentage_solved": 0.44100360196953947,
+        "points": 226.75551753635585
+    },
+    "0163": {
+        "title": "Cross-hatched Triangles",
+        "solved_by": 2039,
+        "solution": "343047",
+        "percentage_solved": 0.15384197509253908,
+        "points": 650.0176557135851
+    },
+    "0164": {
+        "title": "Three Consecutive Digital Sum Limit",
+        "solved_by": 6280,
+        "solution": "378158756814587",
+        "percentage_solved": 0.47382422931885504,
+        "points": 211.04872611464967
+    },
+    "0165": {
+        "title": "Intersections",
+        "solved_by": 2894,
+        "solution": "2868868",
+        "percentage_solved": 0.21835148402050422,
+        "points": 457.97719419488595
+    },
+    "0166": {
+        "title": "Criss Cross",
+        "solved_by": 4512,
+        "solution": "7130034",
+        "percentage_solved": 0.3404291278163493,
+        "points": 293.7468971631206
+    },
+    "0167": {
+        "title": "Investigating Ulam Sequences",
+        "solved_by": 1902,
+        "solution": "3916160068885",
+        "percentage_solved": 0.14350536372045578,
+        "points": 696.8380651945321
+    },
+    "0168": {
+        "title": "Number Rotations",
+        "solved_by": 2948,
+        "solution": "59206",
+        "percentage_solved": 0.222425768794902,
+        "points": 449.58819538670286
+    },
+    "0169": {
+        "title": "Sums of Powers of Two",
+        "solved_by": 5622,
+        "solution": "178653872807",
+        "percentage_solved": 0.4241783148456374,
+        "points": 235.7499110636784
+    },
+    "0170": {
+        "title": "Pandigital Concatenating Products",
+        "solved_by": 2195,
+        "solution": "9857164023",
+        "percentage_solved": 0.16561213110746606,
+        "points": 603.8205011389522
+    },
+    "0171": {
+        "title": "Square Sum of the Digital Squares",
+        "solved_by": 3086,
+        "solution": "142989277",
+        "percentage_solved": 0.23283782988502974,
+        "points": 429.4834737524303
+    },
+    "0172": {
+        "title": "Few Repeated Digits",
+        "solved_by": 4192,
+        "solution": "227485267000992000",
+        "percentage_solved": 0.31628521804214016,
+        "points": 316.1703244274809
+    },
+    "0173": {
+        "title": "Hollow Square Laminae I",
+        "solved_by": 9857,
+        "solution": "1572729",
+        "percentage_solved": 0.7437078707636869,
+        "points": 134.46139799127525
+    },
+    "0174": {
+        "title": "Hollow Square Laminae II",
+        "solved_by": 6422,
+        "solution": "209566",
+        "percentage_solved": 0.4845380892811604,
+        "points": 206.38212394892557
+    },
+    "0175": {
+        "title": "Fractions and Sum of Powers of Two",
+        "solved_by": 1993,
+        "solution": "1,13717420,8",
+        "percentage_solved": 0.1503712880624965,
+        "points": 665.020572002007
+    },
+    "0176": {
+        "title": "Common Cathetus Right-angled Triangles",
+        "solved_by": 2102,
+        "solution": "96818198400000",
+        "percentage_solved": 0.1585953073293365,
+        "points": 630.535680304472
+    },
+    "0177": {
+        "title": "Integer Angled Quadrilaterals",
+        "solved_by": 1425,
+        "solution": "129325",
+        "percentage_solved": 0.10751584821327523,
+        "points": 930.0954385964912
+    },
+    "0178": {
+        "title": "Step Numbers",
+        "solved_by": 3753,
+        "solution": "126461847755",
+        "percentage_solved": 0.28316279182064696,
+        "points": 353.1537436717293
+    },
+    "0179": {
+        "title": "Consecutive Positive Divisors",
+        "solved_by": 12141,
+        "solution": "986262",
+        "percentage_solved": 0.9160350267771049,
+        "points": 109.16613129066799
+    },
+    "0180": {
+        "title": "Golden Triplets",
+        "solved_by": 1755,
+        "solution": "285196020571078987",
+        "percentage_solved": 0.13241425516792846,
+        "points": 755.205698005698
+    },
+    "0181": {
+        "title": "Grouping Two Different Coloured Objects",
+        "solved_by": 2230,
+        "solution": "83735848679360680",
+        "percentage_solved": 0.16825287123902016,
+        "points": 594.3434977578476
+    },
+    "0182": {
+        "title": "RSA Encryption",
+        "solved_by": 2871,
+        "solution": "399788195976",
+        "percentage_solved": 0.21661614050548292,
+        "points": 461.6461163357715
+    },
+    "0183": {
+        "title": "Maximum Product of Parts",
+        "solved_by": 5076,
+        "solution": "48861552",
+        "percentage_solved": 0.382982768793393,
+        "points": 261.10835303388495
+    },
+    "0184": {
+        "title": "Triangles Containing the Origin",
+        "solved_by": 1833,
+        "solution": "1725323624056",
+        "percentage_solved": 0.13829933317539192,
+        "points": 723.0692853246045
+    },
+    "0185": {
+        "title": "Number Mind",
+        "solved_by": 3442,
+        "solution": "4640261571849533",
+        "percentage_solved": 0.2596979295088374,
+        "points": 385.0627542126671
+    },
+    "0186": {
+        "title": "Connectedness of a Network",
+        "solved_by": 3141,
+        "solution": "2325629",
+        "percentage_solved": 0.23698756437747193,
+        "points": 421.96306908627827
+    },
+    "0187": {
+        "title": "Semiprimes",
+        "solved_by": 12073,
+        "solution": "17427258",
+        "percentage_solved": 0.9109044459500855,
+        "points": 109.7809989232171
+    },
+    "0188": {
+        "title": "Hyperexponentiation",
+        "solved_by": 6919,
+        "solution": "95962097",
+        "percentage_solved": 0.522036599149229,
+        "points": 191.55745049862696
+    },
+    "0189": {
+        "title": "Tri-colouring a Triangular Grid",
+        "solved_by": 2284,
+        "solution": "10834893628237824",
+        "percentage_solved": 0.17232715601341797,
+        "points": 580.2915936952714
+    },
+    "0190": {
+        "title": "Maximising a Weighted Product",
+        "solved_by": 4525,
+        "solution": "371048281",
+        "percentage_solved": 0.34140997415092655,
+        "points": 292.9029834254144
+    },
+    "0191": {
+        "title": "Prize Strings",
+        "solved_by": 7694,
+        "solution": "1918080160",
+        "percentage_solved": 0.5805101306336418,
+        "points": 172.26228229789447
+    },
+    "0192": {
+        "title": "Best Approximations",
+        "solved_by": 1835,
+        "solution": "57060635927998347",
+        "percentage_solved": 0.13845023261148073,
+        "points": 722.2811989100818
+    },
+    "0193": {
+        "title": "Squarefree Numbers",
+        "solved_by": 3737,
+        "solution": "684465067343069",
+        "percentage_solved": 0.2819555963319365,
+        "points": 354.66577468557665
+    },
+    "0194": {
+        "title": "Coloured Configurations",
+        "solved_by": 1575,
+        "solution": "61190912",
+        "percentage_solved": 0.11883330591993578,
+        "points": 841.5149206349206
+    },
+    "0195": {
+        "title": "$60$-degree Triangle Inscribed Circles",
+        "solved_by": 1582,
+        "solution": "75085391",
+        "percentage_solved": 0.1193614539462466,
+        "points": 837.7914032869785
+    },
+    "0196": {
+        "title": "Prime Triplets",
+        "solved_by": 2858,
+        "solution": "322303240771079935",
+        "percentage_solved": 0.21563529417090568,
+        "points": 463.74597620713786
+    },
+    "0197": {
+        "title": "A Recursively Defined Sequence",
+        "solved_by": 5336,
+        "solution": "1.710637717",
+        "percentage_solved": 0.402599695484938,
+        "points": 248.38568215892053
+    },
+    "0198": {
+        "title": "Ambiguous Numbers",
+        "solved_by": 1266,
+        "solution": "52374425",
+        "percentage_solved": 0.09551934304421503,
+        "points": 1046.9083728278042
+    },
+    "0199": {
+        "title": "Iterative Circle Packing",
+        "solved_by": 2160,
+        "solution": "0.00396087",
+        "percentage_solved": 0.16297139097591193,
+        "points": 613.6046296296296
+    },
+    "0200": {
+        "title": "Prime-proof Squbes",
+        "solved_by": 2650,
+        "solution": "229161792008",
+        "percentage_solved": 0.19994175281766974,
+        "points": 500.14566037735847
+    },
+    "0201": {
+        "title": "Subsets with a Unique Sum",
+        "solved_by": 2580,
+        "solution": "115039000",
+        "percentage_solved": 0.19466027255456145,
+        "points": 513.715503875969
+    },
+    "0202": {
+        "title": "Laserbeam",
+        "solved_by": 2808,
+        "solution": "1209002624",
+        "percentage_solved": 0.2118628082686855,
+        "points": 472.00356125356126
+    },
+    "0203": {
+        "title": "Squarefree Binomial Coefficients",
+        "solved_by": 9838,
+        "solution": "34029210557338",
+        "percentage_solved": 0.7422743261208433,
+        "points": 134.72108152063427
+    },
+    "0204": {
+        "title": "Generalised Hamming Numbers",
+        "solved_by": 7948,
+        "solution": "2944730",
+        "percentage_solved": 0.5996743590169203,
+        "points": 166.75717161550077
+    },
+    "0205": {
+        "title": "Dice Game",
+        "solved_by": 16007,
+        "solution": "0.5731441",
+        "percentage_solved": 1.2077236367367696,
+        "points": 82.80039982507652
+    },
+    "0206": {
+        "title": "Concealed Square",
+        "solved_by": 26149,
+        "solution": "1389019170",
+        "percentage_solved": 1.9729346771431115,
+        "points": 50.685915331370225
+    },
+    "0207": {
+        "title": "Integer Partition Equations",
+        "solved_by": 5092,
+        "solution": "44043947822",
+        "percentage_solved": 0.3841899642821035,
+        "points": 260.28790259230163
+    },
+    "0208": {
+        "title": "Robot Walks",
+        "solved_by": 1941,
+        "solution": "331951449665644800",
+        "percentage_solved": 0.14644790272418753,
+        "points": 682.8366821226172
+    },
+    "0209": {
+        "title": "Circular Logic",
+        "solved_by": 2734,
+        "solution": "15964587728784",
+        "percentage_solved": 0.20627952913339964,
+        "points": 484.7790782735918
+    },
+    "0210": {
+        "title": "Obtuse Angled Triangles",
+        "solved_by": 1878,
+        "solution": "1598174770174689458",
+        "percentage_solved": 0.1416945704873901,
+        "points": 705.7433439829606
+    },
+    "0211": {
+        "title": "Divisor Square Sum",
+        "solved_by": 4582,
+        "solution": "1922364685",
+        "percentage_solved": 0.34571060807945764,
+        "points": 289.2592754255783
+    },
+    "0212": {
+        "title": "Combined Volume of Cuboids",
+        "solved_by": 1533,
+        "solution": "328968937309",
+        "percentage_solved": 0.11566441776207083,
+        "points": 864.570123939987
+    },
+    "0213": {
+        "title": "Flea Circus",
+        "solved_by": 2572,
+        "solution": "330.721154",
+        "percentage_solved": 0.19405667481020625,
+        "points": 515.3133748055988
+    },
+    "0214": {
+        "title": "Totient Chains",
+        "solved_by": 5662,
+        "solution": "1677366278943",
+        "percentage_solved": 0.42719630356741356,
+        "points": 234.08442246555987
+    },
+    "0215": {
+        "title": "Crack-free Walls",
+        "solved_by": 3984,
+        "solution": "806844323190414",
+        "percentage_solved": 0.3005916766889042,
+        "points": 332.6772088353414
+    },
+    "0216": {
+        "title": "The Primality of $2n^2 - 1$",
+        "solved_by": 4521,
+        "solution": "5437849",
+        "percentage_solved": 0.341108175278749,
+        "points": 293.1621322716213
+    },
+    "0217": {
+        "title": "Balanced Numbers",
+        "solved_by": 1664,
+        "solution": "6273134",
+        "percentage_solved": 0.1255483308258877,
+        "points": 796.5060096153846
+    },
+    "0218": {
+        "title": "Perfect Right-angled Triangles",
+        "solved_by": 3281,
+        "solution": "0",
+        "percentage_solved": 0.24755052490368845,
+        "points": 403.95793965254495
+    },
+    "0219": {
+        "title": "Skew-cost Coding",
+        "solved_by": 1620,
+        "solution": "64564225042",
+        "percentage_solved": 0.12222854323193394,
+        "points": 818.1395061728396
+    },
+    "0220": {
+        "title": "Heighway Dragon",
+        "solved_by": 2353,
+        "solution": "139776,963904",
+        "percentage_solved": 0.17753318655848185,
+        "points": 563.2749681257968
+    },
+    "0221": {
+        "title": "Alexandrian Integers",
+        "solved_by": 2303,
+        "solution": "1884161251122450",
+        "percentage_solved": 0.17376070065626167,
+        "points": 575.504125054277
+    },
+    "0222": {
+        "title": "Sphere Packing",
+        "solved_by": 2273,
+        "solution": "1590933",
+        "percentage_solved": 0.17149720911492955,
+        "points": 583.0998680158381
+    },
+    "0223": {
+        "title": "Almost Right-angled Triangles I",
+        "solved_by": 1696,
+        "solution": "61614848",
+        "percentage_solved": 0.12796272180330862,
+        "points": 781.4775943396227
+    },
+    "0224": {
+        "title": "Almost Right-angled Triangles II",
+        "solved_by": 1381,
+        "solution": "4137330",
+        "percentage_solved": 0.10419606061932146,
+        "points": 959.7291817523534
+    },
+    "0225": {
+        "title": "Tribonacci Non-divisors",
+        "solved_by": 4840,
+        "solution": "2009",
+        "percentage_solved": 0.36517663533491374,
+        "points": 273.8400826446281
+    },
+    "0226": {
+        "title": "A Scoop of Blancmange",
+        "solved_by": 1949,
+        "solution": "0.11316017",
+        "percentage_solved": 0.14705150046854276,
+        "points": 680.0338635197537
+    },
+    "0227": {
+        "title": "The Chase",
+        "solved_by": 2320,
+        "solution": "3780.618622",
+        "percentage_solved": 0.1750433458630165,
+        "points": 571.2870689655173
+    },
+    "0228": {
+        "title": "Minkowski Sums",
+        "solved_by": 1468,
+        "solution": "86226",
+        "percentage_solved": 0.11076018608918459,
+        "points": 902.8514986376022
+    },
+    "0229": {
+        "title": "Four Representations Using Squares",
+        "solved_by": 1605,
+        "solution": "11325263",
+        "percentage_solved": 0.12109679746126789,
+        "points": 825.7856697819315
+    },
+    "0230": {
+        "title": "Fibonacci Words",
+        "solved_by": 3098,
+        "solution": "850481152593119296",
+        "percentage_solved": 0.23374322650156254,
+        "points": 427.81988379599744
+    },
+    "0231": {
+        "title": "Prime Factorisation of Binomial Coefficients",
+        "solved_by": 5904,
+        "solution": "7526965179680",
+        "percentage_solved": 0.44545513533415926,
+        "points": 224.48949864498644
+    },
+    "0232": {
+        "title": "The Race",
+        "solved_by": 1963,
+        "solution": "0.83648556",
+        "percentage_solved": 0.1481077965211644,
+        "points": 675.1839021905247
+    },
+    "0233": {
+        "title": "Lattice Points on a Circle",
+        "solved_by": 2549,
+        "solution": "271204031455541309",
+        "percentage_solved": 0.19232133129518494,
+        "points": 519.9631227932523
+    },
+    "0234": {
+        "title": "Semidivisible Numbers",
+        "solved_by": 3498,
+        "solution": "1259187438574927161",
+        "percentage_solved": 0.26392311371932403,
+        "points": 378.8982275586049
+    },
+    "0235": {
+        "title": "An Arithmetic Geometric Sequence",
+        "solved_by": 5360,
+        "solution": "1.002322108633",
+        "percentage_solved": 0.4044104887180036,
+        "points": 247.27350746268658
+    },
+    "0236": {
+        "title": "Luxury Hampers",
+        "solved_by": 1033,
+        "solution": "123/59",
+        "percentage_solved": 0.07793955873986899,
+        "points": 1283.0454985479187
+    },
+    "0237": {
+        "title": "Tours on a $4 \\times N$ Playing Board",
+        "solved_by": 1737,
+        "solution": "15836928",
+        "percentage_solved": 0.13105616024312916,
+        "points": 763.0316637881405
+    },
+    "0238": {
+        "title": "Infinite String Tour",
+        "solved_by": 1068,
+        "solution": "9922545104535661",
+        "percentage_solved": 0.08058029887142312,
+        "points": 1240.9981273408239
+    },
+    "0239": {
+        "title": "Twenty-two Foolish Primes",
+        "solved_by": 1989,
+        "solution": "0.001887854841",
+        "percentage_solved": 0.1500694891903189,
+        "points": 666.3579688285571
+    },
+    "0240": {
+        "title": "Top Dice",
+        "solved_by": 2375,
+        "solution": "7448717393364181966",
+        "percentage_solved": 0.17919308035545872,
+        "points": 558.0572631578947
+    },
+    "0241": {
+        "title": "Perfection Quotients",
+        "solved_by": 1038,
+        "solution": "482316491800641154",
+        "percentage_solved": 0.078316807330091,
+        "points": 1276.8651252408479
+    },
+    "0242": {
+        "title": "Odd Triplets",
+        "solved_by": 1149,
+        "solution": "997104142249036713",
+        "percentage_solved": 0.0866917260330198,
+        "points": 1153.5126196692777
+    },
+    "0243": {
+        "title": "Resilience",
+        "solved_by": 10308,
+        "solution": "892371480",
+        "percentage_solved": 0.7777356936017129,
+        "points": 128.57838571982927
+    },
+    "0244": {
+        "title": "Sliders",
+        "solved_by": 1450,
+        "solution": "96356848",
+        "percentage_solved": 0.10940209116438532,
+        "points": 914.0593103448276
+    },
+    "0245": {
+        "title": "Coresilience",
+        "solved_by": 920,
+        "solution": "288084712410001",
+        "percentage_solved": 0.06941374060085137,
+        "points": 1440.6369565217392
+    },
+    "0246": {
+        "title": "Tangents to an Ellipse",
+        "solved_by": 910,
+        "solution": "810834388",
+        "percentage_solved": 0.06865924342040734,
+        "points": 1456.4681318681319
+    },
+    "0247": {
+        "title": "Squares Under a Hyperbola",
+        "solved_by": 1616,
+        "solution": "782252",
+        "percentage_solved": 0.12192674435975634,
+        "points": 820.164603960396
+    },
+    "0248": {
+        "title": "Euler's Totient Function Equals 13!",
+        "solved_by": 1442,
+        "solution": "23507044290",
+        "percentage_solved": 0.10879849342003009,
+        "points": 919.130374479889
+    },
+    "0249": {
+        "title": "Prime Subset Sums",
+        "solved_by": 2770,
+        "solution": "9275262564250418",
+        "percentage_solved": 0.20899571898299815,
+        "points": 478.47870036101085
+    },
+    "0250": {
+        "title": "$250250$",
+        "solved_by": 3271,
+        "solution": "1425480602091519",
+        "percentage_solved": 0.2467960277232444,
+        "points": 405.1929073677774
+    },
+    "0251": {
+        "title": "Cardano Triplets",
+        "solved_by": 1545,
+        "solution": "18946051",
+        "percentage_solved": 0.11656981437860367,
+        "points": 857.8550161812298
+    },
+    "0252": {
+        "title": "Convex Holes",
+        "solved_by": 939,
+        "solution": "104924.0",
+        "percentage_solved": 0.07084728524369505,
+        "points": 1411.4866879659212
+    },
+    "0253": {
+        "title": "Tidying Up A",
+        "solved_by": 1154,
+        "solution": "11.492847",
+        "percentage_solved": 0.08706897462324184,
+        "points": 1148.5147313691507
+    },
+    "0254": {
+        "title": "Sums of Digit Factorials",
+        "solved_by": 1071,
+        "solution": "8184523820510",
+        "percentage_solved": 0.08080664802555633,
+        "points": 1237.5219421101774
+    },
+    "0255": {
+        "title": "Rounded Square Roots",
+        "solved_by": 960,
+        "solution": "4.4474011180",
+        "percentage_solved": 0.07243172932262752,
+        "points": 1380.6104166666667
+    },
+    "0256": {
+        "title": "Tatami-Free Rooms",
+        "solved_by": 808,
+        "solution": "85765680",
+        "percentage_solved": 0.06096337217987817,
+        "points": 1640.329207920792
+    },
+    "0257": {
+        "title": "Angular Bisectors",
+        "solved_by": 770,
+        "solution": "139012411",
+        "percentage_solved": 0.058096282894190825,
+        "points": 1721.2805194805194
+    },
+    "0258": {
+        "title": "A Lagged Fibonacci Sequence",
+        "solved_by": 1771,
+        "solution": "12747994",
+        "percentage_solved": 0.13362145065663888,
+        "points": 748.3828345567476
+    },
+    "0259": {
+        "title": "Reachable Numbers",
+        "solved_by": 1651,
+        "solution": "20101196798",
+        "percentage_solved": 0.12456748449131046,
+        "points": 802.7777104784979
+    },
+    "0260": {
+        "title": "Stone Game",
+        "solved_by": 1448,
+        "solution": "167542057",
+        "percentage_solved": 0.10925119172829652,
+        "points": 915.3218232044198
+    },
+    "0261": {
+        "title": "Pivotal Square Sums",
+        "solved_by": 767,
+        "solution": "238890850232021",
+        "percentage_solved": 0.05786993374005761,
+        "points": 1728.013037809648
+    },
+    "0262": {
+        "title": "Mountain Range",
+        "solved_by": 798,
+        "solution": "2531.205",
+        "percentage_solved": 0.06020887499943412,
+        "points": 1660.8847117794487
+    },
+    "0263": {
+        "title": "An Engineers' Dream Come True",
+        "solved_by": 1149,
+        "solution": "2039506520",
+        "percentage_solved": 0.0866917260330198,
+        "points": 1153.5126196692777
+    },
+    "0264": {
+        "title": "Triangle Centres",
+        "solved_by": 629,
+        "solution": "2816417.1055",
+        "percentage_solved": 0.047457872649929914,
+        "points": 2107.1319554848965
+    },
+    "0265": {
+        "title": "Binary Circles",
+        "solved_by": 4527,
+        "solution": "209110240768",
+        "percentage_solved": 0.3415608735870154,
+        "points": 292.77358073779544
+    },
+    "0266": {
+        "title": "Pseudo Square Root",
+        "solved_by": 1869,
+        "solution": "1096883702440585",
+        "percentage_solved": 0.14101552302499046,
+        "points": 709.1417870518994
+    },
+    "0267": {
+        "title": "Billionaire",
+        "solved_by": 3697,
+        "solution": "0.999992836187",
+        "percentage_solved": 0.2789376076101604,
+        "points": 358.5031106302407
+    },
+    "0268": {
+        "title": "At Least Four Distinct Prime Factors Less Than 100",
+        "solved_by": 1607,
+        "solution": "785478606870985",
+        "percentage_solved": 0.12124769689735669,
+        "points": 824.7579340385812
+    },
+    "0269": {
+        "title": "Polynomials with at Least One Integer Root",
+        "solved_by": 771,
+        "solution": "1311109198529286",
+        "percentage_solved": 0.05817173261223523,
+        "points": 1719.047989623865
+    },
+    "0270": {
+        "title": "Cutting Squares",
+        "solved_by": 703,
+        "solution": "82282080",
+        "percentage_solved": 0.053041151785215776,
+        "points": 1885.3285917496444
+    },
+    "0271": {
+        "title": "Modular Cubes, Part 1",
+        "solved_by": 2617,
+        "solution": "4617456485273129588",
+        "percentage_solved": 0.1974519121222044,
+        "points": 506.4524264424914
+    },
+    "0272": {
+        "title": "Modular Cubes, Part 2",
+        "solved_by": 1082,
+        "solution": "8495585919506151122",
+        "percentage_solved": 0.08163659492404476,
+        "points": 1224.9408502772644
+    },
+    "0273": {
+        "title": "Sum of Squares",
+        "solved_by": 1519,
+        "solution": "2032447591196869022",
+        "percentage_solved": 0.11460812170944917,
+        "points": 872.5385121790652
+    },
+    "0274": {
+        "title": "Divisibility Multipliers",
+        "solved_by": 1544,
+        "solution": "1601912348822",
+        "percentage_solved": 0.11649436466055926,
+        "points": 858.410621761658
+    },
+    "0275": {
+        "title": "Balanced Sculptures",
+        "solved_by": 669,
+        "solution": "15030564",
+        "percentage_solved": 0.05047586137170606,
+        "points": 1981.1449925261584
+    },
+    "0276": {
+        "title": "Primitive Triangles",
+        "solved_by": 1196,
+        "solution": "5777137137739632912",
+        "percentage_solved": 0.09023786278110678,
+        "points": 1108.1822742474917
+    },
+    "0277": {
+        "title": "A Modified Collatz Sequence",
+        "solved_by": 3491,
+        "solution": "1125977393124310",
+        "percentage_solved": 0.2633949656930132,
+        "points": 379.65797765683186
+    },
+    "0278": {
+        "title": "Linear Combinations of Semiprimes",
+        "solved_by": 1134,
+        "solution": "1228215747273908452",
+        "percentage_solved": 0.08555998026235376,
+        "points": 1168.7707231040565
+    },
+    "0279": {
+        "title": "Triangles with Integral Sides and an Integral Angle",
+        "solved_by": 823,
+        "solution": "416577688",
+        "percentage_solved": 0.06209511795054422,
+        "points": 1610.4325637910085
+    },
+    "0280": {
+        "title": "Ant and Seeds",
+        "solved_by": 1144,
+        "solution": "430.088247",
+        "percentage_solved": 0.0863144774427978,
+        "points": 1158.5541958041958
+    },
+    "0281": {
+        "title": "Pizza Toppings",
+        "solved_by": 1085,
+        "solution": "1485776387445623",
+        "percentage_solved": 0.08186294407817797,
+        "points": 1221.5539170506913
+    },
+    "0282": {
+        "title": "The Ackermann Function",
+        "solved_by": 1129,
+        "solution": "1098988351",
+        "percentage_solved": 0.08518273167213174,
+        "points": 1173.9468556244465
+    },
+    "0283": {
+        "title": "Integer Sided Triangles with Integral Area/perimeter Ratio",
+        "solved_by": 698,
+        "solution": "28038042525570324",
+        "percentage_solved": 0.05266390319499376,
+        "points": 1898.8338108882522
+    },
+    "0284": {
+        "title": "Steady Squares",
+        "solved_by": 1377,
+        "solution": "5a411d7b",
+        "percentage_solved": 0.10389426174714385,
+        "points": 962.5170660856935
+    },
+    "0285": {
+        "title": "Pythagorean Odds",
+        "solved_by": 1340,
+        "solution": "157055.80999",
+        "percentage_solved": 0.1011026221795009,
+        "points": 989.0940298507463
+    },
+    "0286": {
+        "title": "Scoring Probabilities",
+        "solved_by": 2334,
+        "solution": "52.6494571953",
+        "percentage_solved": 0.17609964191563818,
+        "points": 567.860325621251
+    },
+    "0287": {
+        "title": "Quadtree Encoding (a Simple Compression Algorithm)",
+        "solved_by": 1581,
+        "solution": "313135496",
+        "percentage_solved": 0.1192860042282022,
+        "points": 838.3213156230235
+    },
+    "0288": {
+        "title": "An Enormous Factorial",
+        "solved_by": 1831,
+        "solution": "605857431263981935",
+        "percentage_solved": 0.1381484337393031,
+        "points": 723.8590933915893
+    },
+    "0289": {
+        "title": "Eulerian Cycles",
+        "solved_by": 545,
+        "solution": "6567944538",
+        "percentage_solved": 0.041120096334199996,
+        "points": 2431.9009174311927
+    },
+    "0290": {
+        "title": "Digital Signature",
+        "solved_by": 1069,
+        "solution": "20444710234716473",
+        "percentage_solved": 0.08065574858946753,
+        "points": 1239.8372310570626
+    },
+    "0291": {
+        "title": "Panaitopol Primes",
+        "solved_by": 1597,
+        "solution": "4037526",
+        "percentage_solved": 0.12049319971691265,
+        "points": 829.9223544145273
+    },
+    "0292": {
+        "title": "Pythagorean Polygons",
+        "solved_by": 623,
+        "solution": "3600060866",
+        "percentage_solved": 0.047005174341663486,
+        "points": 2127.4253611556983
+    },
+    "0293": {
+        "title": "Pseudo-Fortunate Numbers",
+        "solved_by": 3229,
+        "solution": "2209",
+        "percentage_solved": 0.24362713956537946,
+        "points": 410.46330133168163
+    },
+    "0294": {
+        "title": "Sum of Digits - Experience #23",
+        "solved_by": 1012,
+        "solution": "789184709",
+        "percentage_solved": 0.07635511466093652,
+        "points": 1309.6699604743083
+    },
+    "0295": {
+        "title": "Lenticular Holes",
+        "solved_by": 504,
+        "solution": "4884650818",
+        "percentage_solved": 0.03802665789437945,
+        "points": 2629.7341269841268
+    },
+    "0296": {
+        "title": "Angular Bisector and Tangent",
+        "solved_by": 655,
+        "solution": "1137208419",
+        "percentage_solved": 0.0494195653190844,
+        "points": 2023.4900763358778
+    },
+    "0297": {
+        "title": "Zeckendorf Representation",
+        "solved_by": 2996,
+        "solution": "2252639041804718029",
+        "percentage_solved": 0.2260473552610334,
+        "points": 442.38518024032044
+    },
+    "0298": {
+        "title": "Selective Amnesia",
+        "solved_by": 743,
+        "solution": "1.76882294",
+        "percentage_solved": 0.05605914050699192,
+        "points": 1783.8304172274563
+    },
+    "0299": {
+        "title": "Three Similar Triangles",
+        "solved_by": 685,
+        "solution": "549936643",
+        "percentage_solved": 0.051683056860416514,
+        "points": 1934.8700729927007
+    },
+    "0300": {
+        "title": "Protein Folding",
+        "solved_by": 1227,
+        "solution": "8.0540771484375",
+        "percentage_solved": 0.0925768040404833,
+        "points": 1080.1841890790547
+    },
+    "0301": {
+        "title": "Nim",
+        "solved_by": 7061,
+        "solution": "2178309",
+        "percentage_solved": 0.5327504591115343,
+        "points": 187.70514091488457
+    },
+    "0302": {
+        "title": "Strong Achilles Numbers",
+        "solved_by": 820,
+        "solution": "1170060",
+        "percentage_solved": 0.06186876879641101,
+        "points": 1616.3243902439024
+    },
+    "0303": {
+        "title": "Multiples with Small Digits",
+        "solved_by": 3933,
+        "solution": "1111981904675169",
+        "percentage_solved": 0.29674374106863965,
+        "points": 336.9911009407577
+    },
+    "0304": {
+        "title": "Primonacci",
+        "solved_by": 2397,
+        "solution": "283988410192",
+        "percentage_solved": 0.1808529741524356,
+        "points": 552.9353358364623
+    },
+    "0305": {
+        "title": "Reflexive Position",
+        "solved_by": 678,
+        "solution": "18174995535140",
+        "percentage_solved": 0.051154908834105686,
+        "points": 1954.8466076696166
+    },
+    "0306": {
+        "title": "Paper-strip Game",
+        "solved_by": 1351,
+        "solution": "852938",
+        "percentage_solved": 0.10193256907798937,
+        "points": 981.040710584752
+    },
+    "0307": {
+        "title": "Chip Defects",
+        "solved_by": 1811,
+        "solution": "0.7311720251",
+        "percentage_solved": 0.13663943937841505,
+        "points": 731.853119823302
+    },
+    "0308": {
+        "title": "An Amazing Prime-generating Automaton",
+        "solved_by": 843,
+        "solution": "1539669807660924",
+        "percentage_solved": 0.06360411231143229,
+        "points": 1572.2253855278766
+    },
+    "0309": {
+        "title": "Integer Ladders",
+        "solved_by": 900,
+        "solution": "210139",
+        "percentage_solved": 0.0679047462399633,
+        "points": 1472.651111111111
+    },
+    "0310": {
+        "title": "Nim Square",
+        "solved_by": 1280,
+        "solution": "2586528661783",
+        "percentage_solved": 0.0965756390968367,
+        "points": 1035.4578125
+    },
+    "0311": {
+        "title": "Biclinic Integral Quadrilaterals",
+        "solved_by": 473,
+        "solution": "2466018557",
+        "percentage_solved": 0.03568771663500293,
+        "points": 2802.0845665961947
+    },
+    "0312": {
+        "title": "Cyclic Paths on Sierpi\u0144ski Graphs",
+        "solved_by": 921,
+        "solution": "324681947",
+        "percentage_solved": 0.06948919031889578,
+        "points": 1439.072747014115
+    },
+    "0313": {
+        "title": "Sliding Game",
+        "solved_by": 1755,
+        "solution": "2057774861813004",
+        "percentage_solved": 0.13241425516792846,
+        "points": 755.205698005698
+    },
+    "0314": {
+        "title": "The Mouse on the Moon",
+        "solved_by": 570,
+        "solution": "132.52756426",
+        "percentage_solved": 0.043006339285310086,
+        "points": 2325.2385964912282
+    },
+    "0315": {
+        "title": "Digital Root Clocks",
+        "solved_by": 3647,
+        "solution": "13625242",
+        "percentage_solved": 0.2751651217079402,
+        "points": 363.41815190567587
+    },
+    "0316": {
+        "title": "Numbers in Decimal Expansions",
+        "solved_by": 731,
+        "solution": "542934735751917735",
+        "percentage_solved": 0.05515374389045909,
+        "points": 1813.1135430916552
+    },
+    "0317": {
+        "title": "Firecracker",
+        "solved_by": 2917,
+        "solution": "1856532.8455",
+        "percentage_solved": 0.2200868275355255,
+        "points": 454.36612958519027
+    },
+    "0318": {
+        "title": "2011 Nines",
+        "solved_by": 1025,
+        "solution": "709313889",
+        "percentage_solved": 0.07733596099551376,
+        "points": 1293.059512195122
+    },
+    "0319": {
+        "title": "Bounded Sequences",
+        "solved_by": 447,
+        "solution": "268457129",
+        "percentage_solved": 0.03372602396584844,
+        "points": 2965.069351230425
+    },
+    "0320": {
+        "title": "Factorials Divisible by a Huge Integer",
+        "solved_by": 962,
+        "solution": "278157919195482643",
+        "percentage_solved": 0.07258262875871634,
+        "points": 1377.7401247401247
+    },
+    "0321": {
+        "title": "Swapping Counters",
+        "solved_by": 1885,
+        "solution": "2470433131948040",
+        "percentage_solved": 0.1422227185137009,
+        "points": 703.1225464190982
+    },
+    "0322": {
+        "title": "Binomial Coefficients Divisible by 10",
+        "solved_by": 514,
+        "solution": "999998760323313995",
+        "percentage_solved": 0.038781155074823485,
+        "points": 2578.5719844357977
+    },
+    "0323": {
+        "title": "Bitwise-OR Operations on Random Integers",
+        "solved_by": 4220,
+        "solution": "6.3551758451",
+        "percentage_solved": 0.3183978101473835,
+        "points": 314.0725118483412
+    },
+    "0324": {
+        "title": "Building a Tower",
+        "solved_by": 768,
+        "solution": "96972774",
+        "percentage_solved": 0.05794538345810202,
+        "points": 1725.7630208333333
+    },
+    "0325": {
+        "title": "Stone Game II",
+        "solved_by": 677,
+        "solution": "54672965",
+        "percentage_solved": 0.051079459116061286,
+        "points": 1957.7341211225996
+    },
+    "0326": {
+        "title": "Modulo Summations",
+        "solved_by": 584,
+        "solution": "1966666166408794329",
+        "percentage_solved": 0.04406263533793174,
+        "points": 2269.496575342466
+    },
+    "0327": {
+        "title": "Rooms of Doom",
+        "solved_by": 1217,
+        "solution": "34315549139516",
+        "percentage_solved": 0.09182230686003927,
+        "points": 1089.0599835661462
+    },
+    "0328": {
+        "title": "Lowest-cost Search",
+        "solved_by": 491,
+        "solution": "260511850222",
+        "percentage_solved": 0.0370458115598022,
+        "points": 2699.3604887983706
+    },
+    "0329": {
+        "title": "Prime Frog",
+        "solved_by": 2731,
+        "solution": "199740353/29386561536000",
+        "percentage_solved": 0.20605317997926642,
+        "points": 485.3116074697913
+    },
+    "0330": {
+        "title": "Euler's Number",
+        "solved_by": 582,
+        "solution": "15955822",
+        "percentage_solved": 0.043911735901842934,
+        "points": 2277.2955326460483
+    },
+    "0331": {
+        "title": "Cross Flips",
+        "solved_by": 465,
+        "solution": "467178235146843549",
+        "percentage_solved": 0.035084118890647706,
+        "points": 2850.2924731182798
+    },
+    "0332": {
+        "title": "Spherical Triangles",
+        "solved_by": 675,
+        "solution": "2717.751525",
+        "percentage_solved": 0.05092855967997248,
+        "points": 1963.5348148148148
+    },
+    "0333": {
+        "title": "Special Partitions",
+        "solved_by": 1355,
+        "solution": "3053105",
+        "percentage_solved": 0.10223436795016698,
+        "points": 978.1446494464944
+    },
+    "0334": {
+        "title": "Spilling the Beans",
+        "solved_by": 519,
+        "solution": "150320021261690835",
+        "percentage_solved": 0.0391584036650455,
+        "points": 2553.7302504816957
+    },
+    "0335": {
+        "title": "Gathering the Beans",
+        "solved_by": 560,
+        "solution": "5032316",
+        "percentage_solved": 0.04225184210486606,
+        "points": 2366.760714285714
+    },
+    "0336": {
+        "title": "Maximix Arrangements",
+        "solved_by": 2238,
+        "solution": "CAGBIHEFJDK",
+        "percentage_solved": 0.16885646898337542,
+        "points": 592.218945487042
+    },
+    "0337": {
+        "title": "Totient Stairstep Sequences",
+        "solved_by": 574,
+        "solution": "85068035",
+        "percentage_solved": 0.043308138157487706,
+        "points": 2309.034843205575
+    },
+    "0338": {
+        "title": "Cutting Rectangular Grid Paper",
+        "solved_by": 360,
+        "solution": "15614292",
+        "percentage_solved": 0.02716189849598532,
+        "points": 3681.6277777777777
+    },
+    "0339": {
+        "title": "Peredur Fab Efrawg",
+        "solved_by": 613,
+        "solution": "19823.542204",
+        "percentage_solved": 0.04625067716121945,
+        "points": 2162.1305057096247
+    },
+    "0340": {
+        "title": "Crazy Function",
+        "solved_by": 1219,
+        "solution": "291504964",
+        "percentage_solved": 0.09197320629612807,
+        "points": 1087.273174733388
+    },
+    "0341": {
+        "title": "Golomb's Self-describing Sequence",
+        "solved_by": 1026,
+        "solution": "56098610614277014",
+        "percentage_solved": 0.07741141071355817,
+        "points": 1291.7992202729044
+    },
+    "0342": {
+        "title": "The Totient of a Square Is a Cube",
+        "solved_by": 877,
+        "solution": "5943040885644",
+        "percentage_solved": 0.06616940272494201,
+        "points": 1511.27251995439
+    },
+    "0343": {
+        "title": "Fractional Sequences",
+        "solved_by": 1524,
+        "solution": "269533451410884183",
+        "percentage_solved": 0.1149853702996712,
+        "points": 869.6758530183727
+    },
+    "0344": {
+        "title": "Silver Dollar Game",
+        "solved_by": 364,
+        "solution": "65579304332",
+        "percentage_solved": 0.027463697368162936,
+        "points": 3641.1703296703295
+    },
+    "0345": {
+        "title": "Matrix Sum",
+        "solved_by": 6200,
+        "solution": "13938",
+        "percentage_solved": 0.4677882518753027,
+        "points": 213.77193548387098
+    },
+    "0346": {
+        "title": "Strong Repunits",
+        "solved_by": 4758,
+        "solution": "336108797689259276",
+        "percentage_solved": 0.35898975845527265,
+        "points": 278.55947877259354
+    },
+    "0347": {
+        "title": "Largest Integer Divisible by Two Primes",
+        "solved_by": 4994,
+        "solution": "11109800204052",
+        "percentage_solved": 0.3767958919137519,
+        "points": 265.3956748097717
+    },
+    "0348": {
+        "title": "Sum of a Square and a Cube",
+        "solved_by": 3324,
+        "solution": "1004195061",
+        "percentage_solved": 0.2507948627795978,
+        "points": 398.73225030084234
+    },
+    "0349": {
+        "title": "Langton's Ant",
+        "solved_by": 2092,
+        "solution": "115384615384614952",
+        "percentage_solved": 0.15784081014889248,
+        "points": 633.5497131931166
+    },
+    "0350": {
+        "title": "Constraining the Least Greatest and the Greatest Least",
+        "solved_by": 522,
+        "solution": "84664213",
+        "percentage_solved": 0.03938475281917871,
+        "points": 2539.0536398467434
+    },
+    "0351": {
+        "title": "Hexagonal Orchards",
+        "solved_by": 2811,
+        "solution": "11762187201804552",
+        "percentage_solved": 0.2120891574228187,
+        "points": 471.4998221273568
+    },
+    "0352": {
+        "title": "Blood Tests",
+        "solved_by": 669,
+        "solution": "378563.260589",
+        "percentage_solved": 0.05047586137170606,
+        "points": 1981.1449925261584
+    },
+    "0353": {
+        "title": "Risky Moon",
+        "solved_by": 548,
+        "solution": "1.2759860331",
+        "percentage_solved": 0.04134644548833321,
+        "points": 2418.587591240876
+    },
+    "0354": {
+        "title": "Distances in a Bee's Honeycomb",
+        "solved_by": 492,
+        "solution": "58065134",
+        "percentage_solved": 0.0371212612778466,
+        "points": 2693.8739837398375
+    },
+    "0355": {
+        "title": "Maximal Coprime Subset",
+        "solved_by": 588,
+        "solution": "1726545007",
+        "percentage_solved": 0.04436443421010936,
+        "points": 2254.0578231292516
+    },
+    "0356": {
+        "title": "Largest Roots of Cubic Polynomials",
+        "solved_by": 657,
+        "solution": "28010159",
+        "percentage_solved": 0.04957046475517321,
+        "points": 2017.3302891933029
+    },
+    "0357": {
+        "title": "Prime Generating Integers",
+        "solved_by": 8882,
+        "solution": "1739023853137",
+        "percentage_solved": 0.6701443956703933,
+        "points": 149.22157171808152
+    },
+    "0358": {
+        "title": "Cyclic Numbers",
+        "solved_by": 1756,
+        "solution": "3284144505",
+        "percentage_solved": 0.13248970488597284,
+        "points": 754.7756264236903
+    },
+    "0359": {
+        "title": "Hilbert's New Hotel",
+        "solved_by": 1669,
+        "solution": "40632119",
+        "percentage_solved": 0.1259255794161097,
+        "points": 794.1198322348712
+    },
+    "0360": {
+        "title": "Scary Sphere",
+        "solved_by": 642,
+        "solution": "878825614395267072",
+        "percentage_solved": 0.04843871898450716,
+        "points": 2064.4641744548285
+    },
+    "0361": {
+        "title": "Subsequence of Thue-Morse Sequence",
+        "solved_by": 341,
+        "solution": "178476944",
+        "percentage_solved": 0.02572835385314165,
+        "points": 3886.7624633431087
+    },
+    "0362": {
+        "title": "Squarefree Factors",
+        "solved_by": 527,
+        "solution": "457895958010",
+        "percentage_solved": 0.039762001409400734,
+        "points": 2514.9639468690702
+    },
+    "0363": {
+        "title": "B\u00e9zier Curves",
+        "solved_by": 1228,
+        "solution": "0.0000372091",
+        "percentage_solved": 0.0926522537585277,
+        "points": 1079.3045602605864
+    },
+    "0364": {
+        "title": "Comfortable Distance",
+        "solved_by": 773,
+        "solution": "44855254",
+        "percentage_solved": 0.05832263204832404,
+        "points": 1714.600258732212
+    },
+    "0365": {
+        "title": "A Huge Binomial Coefficient",
+        "solved_by": 1400,
+        "solution": "162619462356610313",
+        "percentage_solved": 0.10562960526216514,
+        "points": 946.7042857142857
+    },
+    "0366": {
+        "title": "Stone Game III",
+        "solved_by": 747,
+        "solution": "88351299",
+        "percentage_solved": 0.05636093937916954,
+        "points": 1774.2784471218206
+    },
+    "0367": {
+        "title": "Bozo Sort",
+        "solved_by": 565,
+        "solution": "48271207",
+        "percentage_solved": 0.04262909069508807,
+        "points": 2345.81592920354
+    },
+    "0368": {
+        "title": "A Kempner-like Series",
+        "solved_by": 593,
+        "solution": "253.6135092068",
+        "percentage_solved": 0.04474168280033137,
+        "points": 2235.0522765598653
+    },
+    "0369": {
+        "title": "Badugi",
+        "solved_by": 519,
+        "solution": "862400558448",
+        "percentage_solved": 0.0391584036650455,
+        "points": 2553.7302504816957
+    },
+    "0370": {
+        "title": "Geometric Triangles",
+        "solved_by": 582,
+        "solution": "41791929448408",
+        "percentage_solved": 0.043911735901842934,
+        "points": 2277.2955326460483
+    },
+    "0371": {
+        "title": "Licence Plates",
+        "solved_by": 1789,
+        "solution": "40.66368097",
+        "percentage_solved": 0.13497954558143815,
+        "points": 740.8529904974846
+    },
+    "0372": {
+        "title": "Pencils of Rays",
+        "solved_by": 440,
+        "solution": "301450082318807027",
+        "percentage_solved": 0.033197875939537616,
+        "points": 3012.240909090909
+    },
+    "0373": {
+        "title": "Circumscribed Circles",
+        "solved_by": 377,
+        "solution": "727227472448913",
+        "percentage_solved": 0.028444543702740185,
+        "points": 3515.6127320954906
+    },
+    "0374": {
+        "title": "Maximum Integer Partition Product",
+        "solved_by": 741,
+        "solution": "334420941",
+        "percentage_solved": 0.05590824107090312,
+        "points": 1788.6450742240215
+    },
+    "0375": {
+        "title": "Minimum of Subsequences",
+        "solved_by": 965,
+        "solution": "7435327983715286168",
+        "percentage_solved": 0.07280897791284954,
+        "points": 1373.456994818653
+    },
+    "0376": {
+        "title": "Nontransitive Sets of Dice",
+        "solved_by": 309,
+        "solution": "973059630185670",
+        "percentage_solved": 0.023313962875720733,
+        "points": 4289.275080906149
+    },
+    "0377": {
+        "title": "Sum of Digits - Experience #13",
+        "solved_by": 804,
+        "solution": "732385277",
+        "percentage_solved": 0.06066157330770055,
+        "points": 1648.4900497512438
+    },
+    "0378": {
+        "title": "Triangle Triples",
+        "solved_by": 960,
+        "solution": "147534623725724718",
+        "percentage_solved": 0.07243172932262752,
+        "points": 1380.6104166666667
+    },
+    "0379": {
+        "title": "Least Common Multiple Count",
+        "solved_by": 577,
+        "solution": "132314136838185",
+        "percentage_solved": 0.04353448731162092,
+        "points": 2297.0294627383014
+    },
+    "0380": {
+        "title": "Amazing Mazes!",
+        "solved_by": 560,
+        "solution": "6.3202e25093",
+        "percentage_solved": 0.04225184210486606,
+        "points": 2366.760714285714
+    },
+    "0381": {
+        "title": "$(\\text{prime}-k)$ Factorial",
+        "solved_by": 4691,
+        "solution": "139602943319822",
+        "percentage_solved": 0.3539346273462976,
+        "points": 282.53805158814754
+    },
+    "0382": {
+        "title": "Generating Polygons",
+        "solved_by": 370,
+        "solution": "697003956",
+        "percentage_solved": 0.027916395676429357,
+        "points": 3582.1243243243243
+    },
+    "0383": {
+        "title": "Divisibility Comparison Between Factorials",
+        "solved_by": 520,
+        "solution": "22173624649806",
+        "percentage_solved": 0.039233853383089906,
+        "points": 2548.8192307692307
+    },
+    "0384": {
+        "title": "Rudin-Shapiro Sequence",
+        "solved_by": 359,
+        "solution": "3354706415856332783",
+        "percentage_solved": 0.02708644877794092,
+        "points": 3691.883008356546
+    },
+    "0385": {
+        "title": "Ellipses Inside Triangles",
+        "solved_by": 313,
+        "solution": "3776957309612153700",
+        "percentage_solved": 0.023615761747898346,
+        "points": 4234.460063897764
+    },
+    "0386": {
+        "title": "Maximum Length of an Antichain",
+        "solved_by": 809,
+        "solution": "528755790",
+        "percentage_solved": 0.06103882189792257,
+        "points": 1638.301606922126
+    },
+    "0387": {
+        "title": "Harshad Numbers",
+        "solved_by": 5046,
+        "solution": "696067597313468",
+        "percentage_solved": 0.3807192772520609,
+        "points": 262.6607213634562
+    },
+    "0388": {
+        "title": "Distinct Lines",
+        "solved_by": 639,
+        "solution": "831907372805129931",
+        "percentage_solved": 0.04821236983037394,
+        "points": 2074.156494522692
+    },
+    "0389": {
+        "title": "Platonic Dice",
+        "solved_by": 1667,
+        "solution": "2406376.3623",
+        "percentage_solved": 0.12577467998002093,
+        "points": 795.0725854829034
+    },
+    "0390": {
+        "title": "Triangles with Non Rational Sides and Integral Area",
+        "solved_by": 615,
+        "solution": "2919133642971",
+        "percentage_solved": 0.04640157659730826,
+        "points": 2155.09918699187
+    },
+    "0391": {
+        "title": "Hopping Game",
+        "solved_by": 301,
+        "solution": "61029882288",
+        "percentage_solved": 0.022710365131365505,
+        "points": 4403.275747508305
+    },
+    "0392": {
+        "title": "Enmeshed Unit Circle",
+        "solved_by": 859,
+        "solution": "3.1486734435",
+        "percentage_solved": 0.06481130780014276,
+        "points": 1542.940628637951
+    },
+    "0393": {
+        "title": "Migrating Ants",
+        "solved_by": 838,
+        "solution": "112398351350823112",
+        "percentage_solved": 0.06322686372121027,
+        "points": 1581.6062052505968
+    },
+    "0394": {
+        "title": "Eating Pie",
+        "solved_by": 588,
+        "solution": "3.2370342194",
+        "percentage_solved": 0.04436443421010936,
+        "points": 2254.0578231292516
+    },
+    "0395": {
+        "title": "Pythagorean Tree",
+        "solved_by": 761,
+        "solution": "28.2453753155",
+        "percentage_solved": 0.0574172354317912,
+        "points": 1741.6373193166885
+    },
+    "0396": {
+        "title": "Weak Goodstein Sequence",
+        "solved_by": 715,
+        "solution": "173214653",
+        "percentage_solved": 0.053946548401748624,
+        "points": 1853.6867132867133
+    },
+    "0397": {
+        "title": "Triangle on Parabola",
+        "solved_by": 297,
+        "solution": "141630459461893728",
+        "percentage_solved": 0.02240856625918789,
+        "points": 4462.579124579124
+    },
+    "0398": {
+        "title": "Cutting Rope",
+        "solved_by": 419,
+        "solution": "2010.59096",
+        "percentage_solved": 0.03161343186060513,
+        "points": 3163.2124105011935
+    },
+    "0399": {
+        "title": "Squarefree Fibonacci Numbers",
+        "solved_by": 628,
+        "solution": "1508395636674243,6.5e27330467",
+        "percentage_solved": 0.04738242293188551,
+        "points": 2110.4872611464966
+    },
+    "0400": {
+        "title": "Fibonacci Tree Game",
+        "solved_by": 520,
+        "solution": "438505383468410633",
+        "percentage_solved": 0.039233853383089906,
+        "points": 2548.8192307692307
+    },
+    "0401": {
+        "title": "Sum of Squares of Divisors",
+        "solved_by": 2872,
+        "solution": "281632621",
+        "percentage_solved": 0.21669159022352735,
+        "points": 461.4853760445682
+    },
+    "0402": {
+        "title": "Integer-valued Polynomials",
+        "solved_by": 458,
+        "solution": "356019862",
+        "percentage_solved": 0.03455597086433688,
+        "points": 2893.8558951965065
+    },
+    "0403": {
+        "title": "Lattice Points Enclosed by Parabola and Line",
+        "solved_by": 390,
+        "solution": "18224771",
+        "percentage_solved": 0.02942539003731743,
+        "points": 3398.425641025641
+    },
+    "0404": {
+        "title": "Crisscross Ellipses",
+        "solved_by": 354,
+        "solution": "1199215615081353",
+        "percentage_solved": 0.0267092001877189,
+        "points": 3744.0282485875705
+    },
+    "0405": {
+        "title": "A Rectangular Tiling",
+        "solved_by": 678,
+        "solution": "237696125",
+        "percentage_solved": 0.051154908834105686,
+        "points": 1954.8466076696166
+    },
+    "0406": {
+        "title": "Guessing Game",
+        "solved_by": 420,
+        "solution": "36813.12757207",
+        "percentage_solved": 0.03168888157864954,
+        "points": 3155.6809523809525
+    },
+    "0407": {
+        "title": "Idempotents",
+        "solved_by": 2707,
+        "solution": "39782849136421",
+        "percentage_solved": 0.2042423867462007,
+        "points": 489.6143332101958
+    },
+    "0408": {
+        "title": "Admissible Paths Through a Grid",
+        "solved_by": 625,
+        "solution": "299742733",
+        "percentage_solved": 0.04715607377775229,
+        "points": 2120.6176
+    },
+    "0409": {
+        "title": "Nim Extreme",
+        "solved_by": 490,
+        "solution": "253223948",
+        "percentage_solved": 0.036970361841757796,
+        "points": 2704.8693877551023
+    },
+    "0410": {
+        "title": "Circle and Tangent Line",
+        "solved_by": 302,
+        "solution": "799999783589946560",
+        "percentage_solved": 0.02278581484940991,
+        "points": 4388.695364238411
+    },
+    "0411": {
+        "title": "Uphill Paths",
+        "solved_by": 729,
+        "solution": "9936352",
+        "percentage_solved": 0.05500284445437027,
+        "points": 1818.0877914951989
+    },
+    "0412": {
+        "title": "Gnomon Numbering",
+        "solved_by": 544,
+        "solution": "38788800",
+        "percentage_solved": 0.041044646616155596,
+        "points": 2436.3713235294117
+    },
+    "0413": {
+        "title": "One-child Numbers",
+        "solved_by": 430,
+        "solution": "3079418648040719",
+        "percentage_solved": 0.03244337875909358,
+        "points": 3082.2930232558138
+    },
+    "0414": {
+        "title": "Kaprekar Constant",
+        "solved_by": 310,
+        "solution": "552506775824935461",
+        "percentage_solved": 0.02338941259376514,
+        "points": 4275.438709677419
+    },
+    "0415": {
+        "title": "Titanic Sets",
+        "solved_by": 349,
+        "solution": "55859742",
+        "percentage_solved": 0.02633195159749688,
+        "points": 3797.6676217765043
+    },
+    "0416": {
+        "title": "A Frog's Trip",
+        "solved_by": 318,
+        "solution": "898082747",
+        "percentage_solved": 0.023993010338120364,
+        "points": 4167.8805031446545
+    },
+    "0417": {
+        "title": "Reciprocal Cycles II",
+        "solved_by": 971,
+        "solution": "446572970925740",
+        "percentage_solved": 0.07326167622111596,
+        "points": 1364.9701338825953
+    },
+    "0418": {
+        "title": "Factorisation Triples",
+        "solved_by": 743,
+        "solution": "1177163565297340320",
+        "percentage_solved": 0.05605914050699192,
+        "points": 1783.8304172274563
+    },
+    "0419": {
+        "title": "Look and Say Sequence",
+        "solved_by": 535,
+        "solution": "998567458,1046245404,43363922",
+        "percentage_solved": 0.04036559915375596,
+        "points": 2477.3570093457943
+    },
+    "0420": {
+        "title": "$2 \\times 2$ Positive Integer Matrix",
+        "solved_by": 479,
+        "solution": "145159332",
+        "percentage_solved": 0.036140414943269354,
+        "points": 2766.9853862212944
+    },
+    "0421": {
+        "title": "Prime Factors of $n^{15}+1$",
+        "solved_by": 728,
+        "solution": "2304215802083466198",
+        "percentage_solved": 0.05492739473632587,
+        "points": 1820.5851648351647
+    },
+    "0422": {
+        "title": "Sequence of Points on a Hyperbola",
+        "solved_by": 308,
+        "solution": "92060460",
+        "percentage_solved": 0.02323851315767633,
+        "points": 4303.201298701299
+    },
+    "0423": {
+        "title": "Consecutive Die Throws",
+        "solved_by": 532,
+        "solution": "653972374",
+        "percentage_solved": 0.040139249999622754,
+        "points": 2491.3270676691727
+    },
+    "0424": {
+        "title": "Kakuro",
+        "solved_by": 448,
+        "solution": "1059760019628",
+        "percentage_solved": 0.033801473683892844,
+        "points": 2958.4508928571427
+    },
+    "0425": {
+        "title": "Prime Connection",
+        "solved_by": 1595,
+        "solution": "46479497324",
+        "percentage_solved": 0.12034230028082385,
+        "points": 830.9630094043887
+    },
+    "0426": {
+        "title": "Box-Ball System",
+        "solved_by": 275,
+        "solution": "31591886008",
+        "percentage_solved": 0.02074867246221101,
+        "points": 4819.585454545455
+    },
+    "0427": {
+        "title": "$n$-sequences",
+        "solved_by": 345,
+        "solution": "97138867",
+        "percentage_solved": 0.026030152725319264,
+        "points": 3841.6985507246377
+    },
+    "0428": {
+        "title": "Necklace of Circles",
+        "solved_by": 271,
+        "solution": "747215561862",
+        "percentage_solved": 0.020446873590033394,
+        "points": 4890.723247232472
+    },
+    "0429": {
+        "title": "Sum of Squares of Unitary Divisors",
+        "solved_by": 2761,
+        "solution": "98792821",
+        "percentage_solved": 0.20831667152059852,
+        "points": 480.0383918869975
+    },
+    "0430": {
+        "title": "Range Flips",
+        "solved_by": 928,
+        "solution": "5000624921.38",
+        "percentage_solved": 0.07001733834520661,
+        "points": 1428.217672413793
+    },
+    "0431": {
+        "title": "Square Space Silo",
+        "solved_by": 661,
+        "solution": "23.386029052",
+        "percentage_solved": 0.049872263627350824,
+        "points": 2005.122541603631
+    },
+    "0432": {
+        "title": "Totient Sum",
+        "solved_by": 544,
+        "solution": "754862080",
+        "percentage_solved": 0.041044646616155596,
+        "points": 2436.3713235294117
+    },
+    "0433": {
+        "title": "Steps in Euclid's Algorithm",
+        "solved_by": 494,
+        "solution": "326624372659664",
+        "percentage_solved": 0.03727216071393541,
+        "points": 2682.9676113360324
+    },
+    "0434": {
+        "title": "Rigid Graphs",
+        "solved_by": 358,
+        "solution": "863253606",
+        "percentage_solved": 0.027010999059896512,
+        "points": 3702.195530726257
+    },
+    "0435": {
+        "title": "Polynomials of Fibonacci Numbers",
+        "solved_by": 1233,
+        "solution": "252541322550",
+        "percentage_solved": 0.09302950234874972,
+        "points": 1074.9278183292781
+    },
+    "0436": {
+        "title": "Unfair Wager",
+        "solved_by": 499,
+        "solution": "0.5276662759",
+        "percentage_solved": 0.03764940930415743,
+        "points": 2656.0841683366734
+    },
+    "0437": {
+        "title": "Fibonacci Primitive Roots",
+        "solved_by": 874,
+        "solution": "74204709657207",
+        "percentage_solved": 0.0659430535708088,
+        "points": 1516.4599542334097
+    },
+    "0438": {
+        "title": "Integer Part of Polynomial Equation's Solutions",
+        "solved_by": 299,
+        "solution": "2046409616809",
+        "percentage_solved": 0.022559465695276695,
+        "points": 4432.729096989967
+    },
+    "0439": {
+        "title": "Sum of Sum of Divisors",
+        "solved_by": 438,
+        "solution": "968697378",
+        "percentage_solved": 0.03304697650344881,
+        "points": 3025.9954337899544
+    },
+    "0440": {
+        "title": "GCD and Tiling",
+        "solved_by": 417,
+        "solution": "970746056",
+        "percentage_solved": 0.031462532424516326,
+        "points": 3178.3836930455636
+    },
+    "0441": {
+        "title": "The Inverse Summation of Coprime Couples",
+        "solved_by": 390,
+        "solution": "5000088.8395",
+        "percentage_solved": 0.02942539003731743,
+        "points": 3398.425641025641
+    },
+    "0442": {
+        "title": "Eleven-free Integers",
+        "solved_by": 430,
+        "solution": "1295552661530920149",
+        "percentage_solved": 0.03244337875909358,
+        "points": 3082.2930232558138
+    },
+    "0443": {
+        "title": "GCD Sequence",
+        "solved_by": 1255,
+        "solution": "2744233049300770",
+        "percentage_solved": 0.09468939614572659,
+        "points": 1056.0844621513945
+    },
+    "0444": {
+        "title": "The Roundtable Lottery",
+        "solved_by": 333,
+        "solution": "1.200856722e263",
+        "percentage_solved": 0.025124756108786422,
+        "points": 3980.138138138138
+    },
+    "0445": {
+        "title": "Retractions A",
+        "solved_by": 433,
+        "solution": "659104042",
+        "percentage_solved": 0.03266972791322679,
+        "points": 3060.9376443418014
+    },
+    "0446": {
+        "title": "Retractions B",
+        "solved_by": 410,
+        "solution": "907803852",
+        "percentage_solved": 0.030934384398205506,
+        "points": 3232.6487804878047
+    },
+    "0447": {
+        "title": "Retractions C",
+        "solved_by": 343,
+        "solution": "530553372",
+        "percentage_solved": 0.025879253289230457,
+        "points": 3864.0991253644315
+    },
+    "0448": {
+        "title": "Average Least Common Multiple",
+        "solved_by": 385,
+        "solution": "106467648",
+        "percentage_solved": 0.029048141447095412,
+        "points": 3442.561038961039
+    },
+    "0449": {
+        "title": "Chocolate Covered Candy",
+        "solved_by": 989,
+        "solution": "103.37870096",
+        "percentage_solved": 0.07461977114591523,
+        "points": 1340.1274014155713
+    },
+    "0450": {
+        "title": "Hypocycloid and Lattice Points",
+        "solved_by": 214,
+        "solution": "583333163984220940",
+        "percentage_solved": 0.016146239661502384,
+        "points": 6193.392523364486
+    },
+    "0451": {
+        "title": "Modular Inverses",
+        "solved_by": 1603,
+        "solution": "153651073760956",
+        "percentage_solved": 0.12094589802517909,
+        "points": 826.8159700561447
+    },
+    "0452": {
+        "title": "Long Products",
+        "solved_by": 642,
+        "solution": "345558983",
+        "percentage_solved": 0.04843871898450716,
+        "points": 2064.4641744548285
+    },
+    "0453": {
+        "title": "Lattice Quadrilaterals",
+        "solved_by": 234,
+        "solution": "104354107",
+        "percentage_solved": 0.017655234022390456,
+        "points": 5664.042735042735
+    },
+    "0454": {
+        "title": "Diophantine Reciprocals III",
+        "solved_by": 528,
+        "solution": "5435004633092",
+        "percentage_solved": 0.03983745112744514,
+        "points": 2510.2007575757575
+    },
+    "0455": {
+        "title": "Powers with Trailing Digits",
+        "solved_by": 787,
+        "solution": "450186511399999",
+        "percentage_solved": 0.05937892810094569,
+        "points": 1684.0991105463786
+    },
+    "0456": {
+        "title": "Triangles Containing the Origin II",
+        "solved_by": 437,
+        "solution": "333333208685971546",
+        "percentage_solved": 0.0329715267854044,
+        "points": 3032.9199084668194
+    },
+    "0457": {
+        "title": "A Polynomial Modulo the Square of a Prime",
+        "solved_by": 879,
+        "solution": "2647787126797397063",
+        "percentage_solved": 0.06632030216103083,
+        "points": 1507.8339021615473
+    },
+    "0458": {
+        "title": "Permutations of Project",
+        "solved_by": 1019,
+        "solution": "423341841",
+        "percentage_solved": 0.07688326268724734,
+        "points": 1300.6732090284593
+    },
+    "0459": {
+        "title": "Flipping Game",
+        "solved_by": 259,
+        "solution": "3996390106631",
+        "percentage_solved": 0.01954147697350055,
+        "points": 5117.320463320463
+    },
+    "0460": {
+        "title": "An Ant on the Move",
+        "solved_by": 351,
+        "solution": "18.420738199",
+        "percentage_solved": 0.026482851033585688,
+        "points": 3776.02849002849
+    },
+    "0461": {
+        "title": "Almost Pi",
+        "solved_by": 1328,
+        "solution": "159820276",
+        "percentage_solved": 0.10019722556296808,
+        "points": 998.031626506024
+    },
+    "0462": {
+        "title": "Permutation of 3-smooth Numbers",
+        "solved_by": 353,
+        "solution": "5.5350769703e1512",
+        "percentage_solved": 0.026633750469674495,
+        "points": 3754.6345609065156
+    },
+    "0463": {
+        "title": "A Weird Recurrence Relation",
+        "solved_by": 1210,
+        "solution": "808981553",
+        "percentage_solved": 0.09129415883372843,
+        "points": 1095.3603305785125
+    },
+    "0464": {
+        "title": "M\u00f6bius Function and Intervals",
+        "solved_by": 352,
+        "solution": "198775297232878",
+        "percentage_solved": 0.02655830075163009,
+        "points": 3765.3011363636365
+    },
+    "0465": {
+        "title": "Polar Polygons",
+        "solved_by": 238,
+        "solution": "585965659",
+        "percentage_solved": 0.017957032894568074,
+        "points": 5568.848739495798
+    },
+    "0466": {
+        "title": "Distinct Terms in a Multiplication Table",
+        "solved_by": 355,
+        "solution": "258381958195474745",
+        "percentage_solved": 0.026784649905763305,
+        "points": 3733.481690140845
+    },
+    "0467": {
+        "title": "Superinteger",
+        "solved_by": 484,
+        "solution": "775181359",
+        "percentage_solved": 0.036517663533491375,
+        "points": 2738.400826446281
+    },
+    "0468": {
+        "title": "Smooth Divisors of Binomial Coefficients",
+        "solved_by": 305,
+        "solution": "852950321",
+        "percentage_solved": 0.023012164003543122,
+        "points": 4345.527868852459
+    },
+    "0469": {
+        "title": "Empty Chairs",
+        "solved_by": 813,
+        "solution": "0.56766764161831",
+        "percentage_solved": 0.06134062077010018,
+        "points": 1630.2410824108242
+    },
+    "0470": {
+        "title": "Super Ramvok",
+        "solved_by": 255,
+        "solution": "147668794",
+        "percentage_solved": 0.019239678101322932,
+        "points": 5197.5921568627455
+    },
+    "0471": {
+        "title": "Triangle Inscribed in Ellipse",
+        "solved_by": 239,
+        "solution": "1.895093981e31",
+        "percentage_solved": 0.018032482612612477,
+        "points": 5545.548117154812
+    },
+    "0472": {
+        "title": "Comfortable Distance II",
+        "solved_by": 279,
+        "solution": "73811586",
+        "percentage_solved": 0.021050471334388626,
+        "points": 4750.4874551971325
+    },
+    "0473": {
+        "title": "Phigital Number Base",
+        "solved_by": 787,
+        "solution": "35856681704365",
+        "percentage_solved": 0.05937892810094569,
+        "points": 1684.0991105463786
+    },
+    "0474": {
+        "title": "Last Digits of Divisors",
+        "solved_by": 457,
+        "solution": "9690646731515010",
+        "percentage_solved": 0.03448052114629248,
+        "points": 2900.1881838074396
+    },
+    "0475": {
+        "title": "Music Festival",
+        "solved_by": 485,
+        "solution": "75780067",
+        "percentage_solved": 0.03659311325153578,
+        "points": 2732.7546391752576
+    },
+    "0476": {
+        "title": "Circle Packing II",
+        "solved_by": 451,
+        "solution": "110242.87794",
+        "percentage_solved": 0.03402782283802605,
+        "points": 2938.7716186252774
+    },
+    "0477": {
+        "title": "Number Sequence Game",
+        "solved_by": 282,
+        "solution": "25044905874565165",
+        "percentage_solved": 0.021276820488521832,
+        "points": 4699.9503546099295
+    },
+    "0478": {
+        "title": "Mixtures",
+        "solved_by": 210,
+        "solution": "59510340",
+        "percentage_solved": 0.01584444078932477,
+        "points": 6311.361904761905
+    },
+    "0479": {
+        "title": "Roots on the Rise",
+        "solved_by": 1421,
+        "solution": "191541795",
+        "percentage_solved": 0.10721404934109761,
+        "points": 932.713581984518
+    },
+    "0480": {
+        "title": "The Last Question",
+        "solved_by": 632,
+        "solution": "turnthestarson",
+        "percentage_solved": 0.047684221804063114,
+        "points": 2097.1297468354433
+    },
+    "0481": {
+        "title": "Chef Showdown",
+        "solved_by": 278,
+        "solution": "729.12106947",
+        "percentage_solved": 0.02097502161634422,
+        "points": 4767.575539568345
+    },
+    "0482": {
+        "title": "The Incenter of a Triangle",
+        "solved_by": 243,
+        "solution": "1400824879147",
+        "percentage_solved": 0.01833428148479009,
+        "points": 5454.263374485597
+    },
+    "0483": {
+        "title": "Repeated Permutation",
+        "solved_by": 282,
+        "solution": "4.993401567e22",
+        "percentage_solved": 0.021276820488521832,
+        "points": 4699.9503546099295
+    },
+    "0484": {
+        "title": "Arithmetic Derivative",
+        "solved_by": 420,
+        "solution": "8907904768686152599",
+        "percentage_solved": 0.03168888157864954,
+        "points": 3155.6809523809525
+    },
+    "0485": {
+        "title": "Maximum Number of Divisors",
+        "solved_by": 1265,
+        "solution": "51281274340",
+        "percentage_solved": 0.09544389332617065,
+        "points": 1047.7359683794466
+    },
+    "0486": {
+        "title": "Palindrome-containing Strings",
+        "solved_by": 288,
+        "solution": "11408450515",
+        "percentage_solved": 0.021729518796788253,
+        "points": 4602.034722222223
+    },
+    "0487": {
+        "title": "Sums of Power Sums",
+        "solved_by": 716,
+        "solution": "106650212746",
+        "percentage_solved": 0.054021998119793024,
+        "points": 1851.0977653631285
+    },
+    "0488": {
+        "title": "Unbalanced Nim",
+        "solved_by": 258,
+        "solution": "216737278",
+        "percentage_solved": 0.019466027255456146,
+        "points": 5137.15503875969
+    },
+    "0489": {
+        "title": "Common Factors Between Two Sequences",
+        "solved_by": 272,
+        "solution": "1791954757162",
+        "percentage_solved": 0.020522323308077798,
+        "points": 4872.742647058823
+    },
+    "0490": {
+        "title": "Jumping Frog",
+        "solved_by": 342,
+        "solution": "777577686",
+        "percentage_solved": 0.025803803571186053,
+        "points": 3875.3976608187136
+    },
+    "0491": {
+        "title": "Double Pandigital Number Divisible by $11$",
+        "solved_by": 2334,
+        "solution": "194505988824000",
+        "percentage_solved": 0.17609964191563818,
+        "points": 567.860325621251
+    },
+    "0492": {
+        "title": "Exploding Sequence",
+        "solved_by": 390,
+        "solution": "242586962923928",
+        "percentage_solved": 0.02942539003731743,
+        "points": 3398.425641025641
+    },
+    "0493": {
+        "title": "Under the Rainbow",
+        "solved_by": 5813,
+        "solution": "6.818741802",
+        "percentage_solved": 0.43858921099211856,
+        "points": 228.00378462067778
+    },
+    "0494": {
+        "title": "Collatz Prefix Families",
+        "solved_by": 240,
+        "solution": "2880067194446832666",
+        "percentage_solved": 0.01810793233065688,
+        "points": 5522.441666666667
+    },
+    "0495": {
+        "title": "Writing $n$ as the Product of $k$ Distinct Positive Integers",
+        "solved_by": 339,
+        "solution": "789107601",
+        "percentage_solved": 0.025577454417052843,
+        "points": 3909.693215339233
+    },
+    "0496": {
+        "title": "Incenter and Circumcenter of Triangle",
+        "solved_by": 352,
+        "solution": "2042473533769142717",
+        "percentage_solved": 0.02655830075163009,
+        "points": 3765.3011363636365
+    },
+    "0497": {
+        "title": "Drunken Tower of Hanoi",
+        "solved_by": 603,
+        "solution": "684901360",
+        "percentage_solved": 0.04549617998077542,
+        "points": 2197.986733001658
+    },
+    "0498": {
+        "title": "Remainder of Polynomial Division",
+        "solved_by": 563,
+        "solution": "472294837",
+        "percentage_solved": 0.04247819125899927,
+        "points": 2354.1492007104794
+    },
+    "0499": {
+        "title": "St. Petersburg Lottery",
+        "solved_by": 379,
+        "solution": "0.8660312",
+        "percentage_solved": 0.02859544313882899,
+        "points": 3497.060686015831
+    },
+    "0500": {
+        "title": "Problem 500!!!",
+        "solved_by": 4437,
+        "solution": "35407281",
+        "percentage_solved": 0.3347703989630191,
+        "points": 298.7121929231463
+    },
+    "0501": {
+        "title": "Eight Divisors",
+        "solved_by": 1499,
+        "solution": "197912312715",
+        "percentage_solved": 0.1130991273485611,
+        "points": 884.1801200800534
+    },
+    "0502": {
+        "title": "Counting Castles",
+        "solved_by": 328,
+        "solution": "749485217",
+        "percentage_solved": 0.024747507518564405,
+        "points": 4040.810975609756
+    },
+    "0503": {
+        "title": "Compromise or Persist",
+        "solved_by": 352,
+        "solution": "3.8694550145",
+        "percentage_solved": 0.02655830075163009,
+        "points": 3765.3011363636365
+    },
+    "0504": {
+        "title": "Square on the Inside",
+        "solved_by": 3355,
+        "solution": "694687",
+        "percentage_solved": 0.25313380403897434,
+        "points": 395.04798807749626
+    },
+    "0505": {
+        "title": "Bidirectional Recurrence",
+        "solved_by": 230,
+        "solution": "714591308667615832",
+        "percentage_solved": 0.017353435150212843,
+        "points": 5762.547826086957
+    },
+    "0506": {
+        "title": "Clock Sequence",
+        "solved_by": 968,
+        "solution": "18934502",
+        "percentage_solved": 0.07303532706698275,
+        "points": 1369.2004132231405
+    },
+    "0507": {
+        "title": "Shortest Lattice Vector",
+        "solved_by": 234,
+        "solution": "316558047002627270",
+        "percentage_solved": 0.017655234022390456,
+        "points": 5664.042735042735
+    },
+    "0508": {
+        "title": "Integers in Base $i-1$",
+        "solved_by": 260,
+        "solution": "891874596",
+        "percentage_solved": 0.019616926691544953,
+        "points": 5097.638461538461
+    },
+    "0509": {
+        "title": "Divisor Nim",
+        "solved_by": 649,
+        "solution": "151725678",
+        "percentage_solved": 0.04896686701081798,
+        "points": 2042.1972265023112
+    },
+    "0510": {
+        "title": "Tangent Circles",
+        "solved_by": 1106,
+        "solution": "315306518862563689",
+        "percentage_solved": 0.08344738815711046,
+        "points": 1198.359855334539
+    },
+    "0511": {
+        "title": "Sequences with Nice Divisibility Properties",
+        "solved_by": 454,
+        "solution": "935247012",
+        "percentage_solved": 0.034254171992159264,
+        "points": 2919.352422907489
+    },
+    "0512": {
+        "title": "Sums of Totients of Powers",
+        "solved_by": 1641,
+        "solution": "50660591862310323",
+        "percentage_solved": 0.12381298731086643,
+        "points": 807.6697135892748
+    },
+    "0513": {
+        "title": "Integral Median",
+        "solved_by": 339,
+        "solution": "2925619196",
+        "percentage_solved": 0.025577454417052843,
+        "points": 3909.693215339233
+    },
+    "0514": {
+        "title": "Geoboard Shapes",
+        "solved_by": 242,
+        "solution": "8986.86698",
+        "percentage_solved": 0.018258831766745687,
+        "points": 5476.801652892562
+    },
+    "0515": {
+        "title": "Dissonant Numbers",
+        "solved_by": 500,
+        "solution": "2422639000800",
+        "percentage_solved": 0.03772485902220184,
+        "points": 2650.772
+    },
+    "0516": {
+        "title": "$5$-smooth Totients",
+        "solved_by": 1693,
+        "solution": "939087315",
+        "percentage_solved": 0.12773637264917542,
+        "points": 782.8623744831659
+    },
+    "0517": {
+        "title": "A Real Recursion",
+        "solved_by": 493,
+        "solution": "581468882",
+        "percentage_solved": 0.03719671099589101,
+        "points": 2688.4097363083165
+    },
+    "0518": {
+        "title": "Prime Triples and Geometric Sequences",
+        "solved_by": 1742,
+        "solution": "100315739184392",
+        "percentage_solved": 0.1314334088333512,
+        "points": 760.841561423651
+    },
+    "0519": {
+        "title": "Tricoloured Coin Fountains",
+        "solved_by": 369,
+        "solution": "804739330",
+        "percentage_solved": 0.027840945958384954,
+        "points": 3591.831978319783
+    },
+    "0520": {
+        "title": "Simbers",
+        "solved_by": 455,
+        "solution": "238413705",
+        "percentage_solved": 0.03432962171020367,
+        "points": 2912.9362637362638
+    },
+    "0521": {
+        "title": "Smallest Prime Factor",
+        "solved_by": 832,
+        "solution": "44389811",
+        "percentage_solved": 0.06277416541294385,
+        "points": 1593.0120192307693
+    },
+    "0522": {
+        "title": "Hilbert's Blackout",
+        "solved_by": 294,
+        "solution": "96772715",
+        "percentage_solved": 0.02218221710505468,
+        "points": 4508.115646258503
+    },
+    "0523": {
+        "title": "First Sort I",
+        "solved_by": 1082,
+        "solution": "37125450.44",
+        "percentage_solved": 0.08163659492404476,
+        "points": 1224.9408502772644
+    },
+    "0524": {
+        "title": "First Sort II",
+        "solved_by": 242,
+        "solution": "2432925835413407847",
+        "percentage_solved": 0.018258831766745687,
+        "points": 5476.801652892562
+    },
+    "0525": {
+        "title": "Rolling Ellipse",
+        "solved_by": 541,
+        "solution": "44.69921807",
+        "percentage_solved": 0.04081829746202238,
+        "points": 2449.881700554529
+    },
+    "0526": {
+        "title": "Largest Prime Factors of Consecutive Numbers",
+        "solved_by": 340,
+        "solution": "49601160286750947",
+        "percentage_solved": 0.02565290413509725,
+        "points": 3898.1941176470586
+    },
+    "0527": {
+        "title": "Randomized Binary Search",
+        "solved_by": 795,
+        "solution": "11.92412011",
+        "percentage_solved": 0.059982525845300914,
+        "points": 1667.1522012578616
+    },
+    "0528": {
+        "title": "Constrained Sums",
+        "solved_by": 312,
+        "solution": "779027989",
+        "percentage_solved": 0.023540312029853943,
+        "points": 4248.032051282052
+    },
+    "0529": {
+        "title": "$10$-substrings",
+        "solved_by": 282,
+        "solution": "23624465",
+        "percentage_solved": 0.021276820488521832,
+        "points": 4699.9503546099295
+    },
+    "0530": {
+        "title": "GCD of Divisors",
+        "solved_by": 497,
+        "solution": "207366437157977206",
+        "percentage_solved": 0.03749850986806862,
+        "points": 2666.7726358148893
+    },
+    "0531": {
+        "title": "Chinese Leftovers",
+        "solved_by": 1257,
+        "solution": "4515432351156203105",
+        "percentage_solved": 0.0948402955818154,
+        "points": 1054.4041368337312
+    },
+    "0532": {
+        "title": "Nanobots on Geodesics",
+        "solved_by": 328,
+        "solution": "827306.56",
+        "percentage_solved": 0.024747507518564405,
+        "points": 4040.810975609756
+    },
+    "0533": {
+        "title": "Minimum Values of the Carmichael Function",
+        "solved_by": 362,
+        "solution": "789453601",
+        "percentage_solved": 0.02731279793207413,
+        "points": 3661.2872928176794
+    },
+    "0534": {
+        "title": "Weak Queens",
+        "solved_by": 337,
+        "solution": "11726115562784664",
+        "percentage_solved": 0.025426554980964036,
+        "points": 3932.896142433234
+    },
+    "0535": {
+        "title": "Fractal Sequence",
+        "solved_by": 312,
+        "solution": "611778217",
+        "percentage_solved": 0.023540312029853943,
+        "points": 4248.032051282052
+    },
+    "0536": {
+        "title": "Modulo Power Identity",
+        "solved_by": 321,
+        "solution": "3557005261906288",
+        "percentage_solved": 0.02421935949225358,
+        "points": 4128.928348909657
+    },
+    "0537": {
+        "title": "Counting Tuples",
+        "solved_by": 698,
+        "solution": "779429131",
+        "percentage_solved": 0.05266390319499376,
+        "points": 1898.8338108882522
+    },
+    "0538": {
+        "title": "Maximum Quadrilaterals",
+        "solved_by": 358,
+        "solution": "22472871503401097",
+        "percentage_solved": 0.027010999059896512,
+        "points": 3702.195530726257
+    },
+    "0539": {
+        "title": "Odd Elimination",
+        "solved_by": 899,
+        "solution": "426334056",
+        "percentage_solved": 0.0678292965219189,
+        "points": 1474.289210233593
+    },
+    "0540": {
+        "title": "Counting Primitive Pythagorean Triples",
+        "solved_by": 727,
+        "solution": "500000000002845",
+        "percentage_solved": 0.05485194501828147,
+        "points": 1823.089408528198
+    },
+    "0541": {
+        "title": "Divisibility of Harmonic Number Denominators",
+        "solved_by": 229,
+        "solution": "4580726482872451",
+        "percentage_solved": 0.01727798543216844,
+        "points": 5787.711790393013
+    },
+    "0542": {
+        "title": "Geometric Progression with Maximum Sum",
+        "solved_by": 252,
+        "solution": "697586734240314852",
+        "percentage_solved": 0.019013328947189725,
+        "points": 5259.4682539682535
+    },
+    "0543": {
+        "title": "Prime-Sum Numbers",
+        "solved_by": 755,
+        "solution": "199007746081234640",
+        "percentage_solved": 0.05696453712352477,
+        "points": 1755.4781456953642
+    },
+    "0544": {
+        "title": "Chromatic Conundrum",
+        "solved_by": 285,
+        "solution": "640432376",
+        "percentage_solved": 0.021503169642655043,
+        "points": 4650.4771929824565
+    },
+    "0545": {
+        "title": "Faulhaber's Formulas",
+        "solved_by": 578,
+        "solution": "921107572",
+        "percentage_solved": 0.04360993702966532,
+        "points": 2293.055363321799
+    },
+    "0546": {
+        "title": "The Floor's Revenge",
+        "solved_by": 263,
+        "solution": "215656873",
+        "percentage_solved": 0.019843275845678167,
+        "points": 5039.490494296578
+    },
+    "0547": {
+        "title": "Distance of Random Points Within Hollow Square Laminae",
+        "solved_by": 248,
+        "solution": "11730879.0023",
+        "percentage_solved": 0.018711530075012108,
+        "points": 5344.298387096775
+    },
+    "0548": {
+        "title": "Gozinta Chains",
+        "solved_by": 682,
+        "solution": "12144044603581281",
+        "percentage_solved": 0.0514567077062833,
+        "points": 1943.3812316715544
+    },
+    "0549": {
+        "title": "Divisibility of Factorials",
+        "solved_by": 3002,
+        "solution": "476001479068717",
+        "percentage_solved": 0.2265000535692998,
+        "points": 441.5009993337775
+    },
+    "0550": {
+        "title": "Divisor Game",
+        "solved_by": 387,
+        "solution": "328104836",
+        "percentage_solved": 0.029199040883184223,
+        "points": 3424.770025839793
+    },
+    "0551": {
+        "title": "Sum of Digits Sequence",
+        "solved_by": 507,
+        "solution": "73597483551591773",
+        "percentage_solved": 0.038253007048512665,
+        "points": 2614.1735700197237
+    },
+    "0552": {
+        "title": "Chinese Leftovers II",
+        "solved_by": 483,
+        "solution": "326227335",
+        "percentage_solved": 0.03644221381544697,
+        "points": 2744.0703933747413
+    },
+    "0553": {
+        "title": "Power Sets of Power Sets",
+        "solved_by": 229,
+        "solution": "57717170",
+        "percentage_solved": 0.01727798543216844,
+        "points": 5787.711790393013
+    },
+    "0554": {
+        "title": "Centaurs on a Chess Board",
+        "solved_by": 269,
+        "solution": "89539872",
+        "percentage_solved": 0.020295974153944584,
+        "points": 4927.085501858736
+    },
+    "0555": {
+        "title": "McCarthy 91 Function",
+        "solved_by": 763,
+        "solution": "208517717451208352",
+        "percentage_solved": 0.05756813486788,
+        "points": 1737.0720838794234
+    },
+    "0556": {
+        "title": "Squarefree Gaussian Integers",
+        "solved_by": 274,
+        "solution": "52126939292957",
+        "percentage_solved": 0.020673222744166605,
+        "points": 4837.175182481752
+    },
+    "0557": {
+        "title": "Cutting Triangles",
+        "solved_by": 309,
+        "solution": "2699929328",
+        "percentage_solved": 0.023313962875720733,
+        "points": 4289.275080906149
+    },
+    "0558": {
+        "title": "Irrational Base",
+        "solved_by": 271,
+        "solution": "226754889",
+        "percentage_solved": 0.020446873590033394,
+        "points": 4890.723247232472
+    },
+    "0559": {
+        "title": "Permuted Matrices",
+        "solved_by": 208,
+        "solution": "684724920",
+        "percentage_solved": 0.015693541353235963,
+        "points": 6372.048076923077
+    },
+    "0560": {
+        "title": "Coprime Nim",
+        "solved_by": 367,
+        "solution": "994345168",
+        "percentage_solved": 0.027690046522296147,
+        "points": 3611.4059945504086
+    },
+    "0561": {
+        "title": "Divisor Pairs",
+        "solved_by": 841,
+        "solution": "452480999988235494",
+        "percentage_solved": 0.06345321287534349,
+        "points": 1575.9643281807373
+    },
+    "0562": {
+        "title": "Maximal Perimeter",
+        "solved_by": 204,
+        "solution": "51208732914368",
+        "percentage_solved": 0.01539174248105835,
+        "points": 6496.990196078431
+    },
+    "0563": {
+        "title": "Robot Welders",
+        "solved_by": 368,
+        "solution": "27186308211734760",
+        "percentage_solved": 0.02776549624034055,
+        "points": 3601.592391304348
+    },
+    "0564": {
+        "title": "Maximal Polygons",
+        "solved_by": 261,
+        "solution": "12363.698850",
+        "percentage_solved": 0.019692376409589357,
+        "points": 5078.107279693487
+    },
+    "0565": {
+        "title": "Divisibility of Sum of Divisors",
+        "solved_by": 679,
+        "solution": "2992480851924313898",
+        "percentage_solved": 0.05123035855215009,
+        "points": 1951.9675994108984
+    },
+    "0566": {
+        "title": "Cake Icing Puzzle",
+        "solved_by": 204,
+        "solution": "329569369413585",
+        "percentage_solved": 0.01539174248105835,
+        "points": 6496.990196078431
+    },
+    "0567": {
+        "title": "Reciprocal Games I",
+        "solved_by": 324,
+        "solution": "75.44817535",
+        "percentage_solved": 0.024445708646386788,
+        "points": 4090.6975308641977
+    },
+    "0568": {
+        "title": "Reciprocal Games II",
+        "solved_by": 315,
+        "solution": "4228020",
+        "percentage_solved": 0.023766661183987157,
+        "points": 4207.574603174603
+    },
+    "0569": {
+        "title": "Prime Mountain Range",
+        "solved_by": 434,
+        "solution": "21025060",
+        "percentage_solved": 0.032745177631271195,
+        "points": 3053.884792626728
+    },
+    "0570": {
+        "title": "Snowflakes",
+        "solved_by": 293,
+        "solution": "271197444",
+        "percentage_solved": 0.022106767387010274,
+        "points": 4523.5017064846415
+    },
+    "0571": {
+        "title": "Super Pandigital Numbers",
+        "solved_by": 1205,
+        "solution": "30510390701978",
+        "percentage_solved": 0.09091691024350641,
+        "points": 1099.9053941908714
+    },
+    "0572": {
+        "title": "Idempotent Matrices",
+        "solved_by": 373,
+        "solution": "19737656",
+        "percentage_solved": 0.028142744830562567,
+        "points": 3553.313672922252
+    },
+    "0573": {
+        "title": "Unfair Race",
+        "solved_by": 227,
+        "solution": "1252.9809",
+        "percentage_solved": 0.017127085996079632,
+        "points": 5838.704845814978
+    },
+    "0574": {
+        "title": "Verifying Primes",
+        "solved_by": 288,
+        "solution": "5780447552057000454",
+        "percentage_solved": 0.021729518796788253,
+        "points": 4602.034722222223
+    },
+    "0575": {
+        "title": "Wandering Robots",
+        "solved_by": 631,
+        "solution": "0.000989640561",
+        "percentage_solved": 0.047608772086018714,
+        "points": 2100.4532488114105
+    },
+    "0576": {
+        "title": "Irrational Jumps",
+        "solved_by": 251,
+        "solution": "344457.5871",
+        "percentage_solved": 0.01893787922914532,
+        "points": 5280.422310756972
+    },
+    "0577": {
+        "title": "Counting Hexagons",
+        "solved_by": 1704,
+        "solution": "265695031399260211",
+        "percentage_solved": 0.12856631954766387,
+        "points": 777.8086854460093
+    },
+    "0578": {
+        "title": "Integers with Decreasing Prime Powers",
+        "solved_by": 261,
+        "solution": "9219696799346",
+        "percentage_solved": 0.019692376409589357,
+        "points": 5078.107279693487
+    },
+    "0579": {
+        "title": "Lattice Points in Lattice Cubes",
+        "solved_by": 185,
+        "solution": "3805524",
+        "percentage_solved": 0.013958197838214679,
+        "points": 7164.248648648649
+    },
+    "0580": {
+        "title": "Squarefree Hilbert Numbers",
+        "solved_by": 279,
+        "solution": "2327213148095366",
+        "percentage_solved": 0.021050471334388626,
+        "points": 4750.4874551971325
+    },
+    "0581": {
+        "title": "$47$-smooth Triangular Numbers",
+        "solved_by": 950,
+        "solution": "2227616372734",
+        "percentage_solved": 0.0716772321421835,
+        "points": 1395.1431578947368
+    },
+    "0582": {
+        "title": "Nearly Isosceles $120$ Degree Triangles",
+        "solved_by": 358,
+        "solution": "19903",
+        "percentage_solved": 0.027010999059896512,
+        "points": 3702.195530726257
+    },
+    "0583": {
+        "title": "Heron Envelopes",
+        "solved_by": 404,
+        "solution": "1174137929000",
+        "percentage_solved": 0.030481686089939085,
+        "points": 3280.658415841584
+    },
+    "0584": {
+        "title": "Birthday Problem Revisited",
+        "solved_by": 229,
+        "solution": "32.83822408",
+        "percentage_solved": 0.01727798543216844,
+        "points": 5787.711790393013
+    },
+    "0585": {
+        "title": "Nested Square Roots",
+        "solved_by": 195,
+        "solution": "17714439395932",
+        "percentage_solved": 0.014712695018658715,
+        "points": 6796.851282051282
+    },
+    "0586": {
+        "title": "Binary Quadratic Form",
+        "solved_by": 254,
+        "solution": "82490213",
+        "percentage_solved": 0.019164228383278532,
+        "points": 5218.055118110236
+    },
+    "0587": {
+        "title": "Concave Triangle",
+        "solved_by": 3416,
+        "solution": "2240",
+        "percentage_solved": 0.25773623683968294,
+        "points": 387.99355971896955
+    },
+    "0588": {
+        "title": "Quintinomial Coefficients",
+        "solved_by": 479,
+        "solution": "11651930052",
+        "percentage_solved": 0.036140414943269354,
+        "points": 2766.9853862212944
+    },
+    "0589": {
+        "title": "Poohsticks Marathon",
+        "solved_by": 220,
+        "solution": "131776959.25",
+        "percentage_solved": 0.016598937969768808,
+        "points": 6024.481818181818
+    },
+    "0590": {
+        "title": "Sets with a Given Least Common Multiple",
+        "solved_by": 285,
+        "solution": "834171904",
+        "percentage_solved": 0.021503169642655043,
+        "points": 4650.4771929824565
+    },
+    "0591": {
+        "title": "Best Approximations by Quadratic Integers",
+        "solved_by": 214,
+        "solution": "526007984625966",
+        "percentage_solved": 0.016146239661502384,
+        "points": 6193.392523364486
+    },
+    "0592": {
+        "title": "Factorial Trailing Digits 2",
+        "solved_by": 310,
+        "solution": "13415DF2BE9C",
+        "percentage_solved": 0.02338941259376514,
+        "points": 4275.438709677419
+    },
+    "0593": {
+        "title": "Fleeting Medians",
+        "solved_by": 582,
+        "solution": "96632320042.0",
+        "percentage_solved": 0.043911735901842934,
+        "points": 2277.2955326460483
+    },
+    "0594": {
+        "title": "Rhombus Tilings",
+        "solved_by": 208,
+        "solution": "47067598",
+        "percentage_solved": 0.015693541353235963,
+        "points": 6372.048076923077
+    },
+    "0595": {
+        "title": "Incremental Random Sort",
+        "solved_by": 677,
+        "solution": "54.17529329",
+        "percentage_solved": 0.051079459116061286,
+        "points": 1957.7341211225996
+    },
+    "0596": {
+        "title": "Number of Lattice Points in a Hyperball",
+        "solved_by": 393,
+        "solution": "734582049",
+        "percentage_solved": 0.02965173919145064,
+        "points": 3372.4834605597966
+    },
+    "0597": {
+        "title": "Torpids",
+        "solved_by": 188,
+        "solution": "0.5001817828",
+        "percentage_solved": 0.01418454699234789,
+        "points": 7049.925531914893
+    },
+    "0598": {
+        "title": "Split Divisibilities",
+        "solved_by": 529,
+        "solution": "543194779059",
+        "percentage_solved": 0.03991290084548954,
+        "points": 2505.4555765595464
+    },
+    "0599": {
+        "title": "Distinct Colourings of a Rubik's Cube",
+        "solved_by": 334,
+        "solution": "12395526079546335",
+        "percentage_solved": 0.025200205826830826,
+        "points": 3968.2215568862275
+    },
+    "0600": {
+        "title": "Integer Sided Equiangular Hexagons",
+        "solved_by": 661,
+        "solution": "2668608479740672",
+        "percentage_solved": 0.049872263627350824,
+        "points": 2005.122541603631
+    },
+    "0601": {
+        "title": "Divisibility Streaks",
+        "solved_by": 2235,
+        "solution": "1617243",
+        "percentage_solved": 0.1686301198292422,
+        "points": 593.013870246085
+    },
+    "0602": {
+        "title": "Product of Head Counts",
+        "solved_by": 538,
+        "solution": "269496760",
+        "percentage_solved": 0.04059194830788917,
+        "points": 2463.542750929368
+    },
+    "0603": {
+        "title": "Substring Sums of Prime Concatenations",
+        "solved_by": 469,
+        "solution": "879476477",
+        "percentage_solved": 0.03538591776282532,
+        "points": 2825.9829424307036
+    },
+    "0604": {
+        "title": "Convex Path in Square",
+        "solved_by": 544,
+        "solution": "1398582231101",
+        "percentage_solved": 0.041044646616155596,
+        "points": 2436.3713235294117
+    },
+    "0605": {
+        "title": "Pairwise Coin-Tossing Game",
+        "solved_by": 918,
+        "solution": "59992576",
+        "percentage_solved": 0.06926284116476257,
+        "points": 1443.7755991285403
+    },
+    "0606": {
+        "title": "Gozinta Chains II",
+        "solved_by": 412,
+        "solution": "158452775",
+        "percentage_solved": 0.03108528383429431,
+        "points": 3216.9563106796118
+    },
+    "0607": {
+        "title": "Marsh Crossing",
+        "solved_by": 1842,
+        "solution": "13.1265108586",
+        "percentage_solved": 0.13897838063779155,
+        "points": 719.5363735070575
+    },
+    "0608": {
+        "title": "Divisor Sums",
+        "solved_by": 328,
+        "solution": "439689828",
+        "percentage_solved": 0.024747507518564405,
+        "points": 4040.810975609756
+    },
+    "0609": {
+        "title": "$\\pi$ Sequences",
+        "solved_by": 1017,
+        "solution": "172023848",
+        "percentage_solved": 0.07673236325115854,
+        "points": 1303.2310717797443
+    },
+    "0610": {
+        "title": "Roman Numerals II",
+        "solved_by": 632,
+        "solution": "319.30207833",
+        "percentage_solved": 0.047684221804063114,
+        "points": 2097.1297468354433
+    },
+    "0611": {
+        "title": "Hallway of Square Steps",
+        "solved_by": 359,
+        "solution": "49283233900",
+        "percentage_solved": 0.02708644877794092,
+        "points": 3691.883008356546
+    },
+    "0612": {
+        "title": "Friend Numbers",
+        "solved_by": 741,
+        "solution": "819963842",
+        "percentage_solved": 0.05590824107090312,
+        "points": 1788.6450742240215
+    },
+    "0613": {
+        "title": "Pythagorean Ant",
+        "solved_by": 1953,
+        "solution": "0.3916721504",
+        "percentage_solved": 0.14735329934072036,
+        "points": 678.6410650281618
+    },
+    "0614": {
+        "title": "Special Partitions 2",
+        "solved_by": 325,
+        "solution": "130694090",
+        "percentage_solved": 0.02452115836443119,
+        "points": 4078.110769230769
+    },
+    "0615": {
+        "title": "The Millionth Number with at Least One Million Prime Factors",
+        "solved_by": 631,
+        "solution": "108424772",
+        "percentage_solved": 0.047608772086018714,
+        "points": 2100.4532488114105
+    },
+    "0616": {
+        "title": "Creative Numbers",
+        "solved_by": 520,
+        "solution": "310884668312456458",
+        "percentage_solved": 0.039233853383089906,
+        "points": 2548.8192307692307
+    },
+    "0617": {
+        "title": "Mirror Power Sequence",
+        "solved_by": 402,
+        "solution": "1001133757",
+        "percentage_solved": 0.030330786653850274,
+        "points": 3296.9800995024875
+    },
+    "0618": {
+        "title": "Numbers with a Given Prime Factor Sum",
+        "solved_by": 1128,
+        "solution": "634212216",
+        "percentage_solved": 0.08510728195408733,
+        "points": 1174.9875886524824
+    },
+    "0619": {
+        "title": "Square Subsets",
+        "solved_by": 435,
+        "solution": "857810883",
+        "percentage_solved": 0.032820627349315595,
+        "points": 3046.864367816092
+    },
+    "0620": {
+        "title": "Planetary Gears",
+        "solved_by": 183,
+        "solution": "1470337306",
+        "percentage_solved": 0.013807298402125872,
+        "points": 7242.546448087432
+    },
+    "0621": {
+        "title": "Expressing an Integer as the Sum of Triangular Numbers",
+        "solved_by": 599,
+        "solution": "11429712",
+        "percentage_solved": 0.045194381108597796,
+        "points": 2212.6644407345575
+    },
+    "0622": {
+        "title": "Riffle Shuffles",
+        "solved_by": 1890,
+        "solution": "3010983666182123972",
+        "percentage_solved": 0.14259996710392292,
+        "points": 701.2624338624339
+    },
+    "0623": {
+        "title": "Lambda Count",
+        "solved_by": 338,
+        "solution": "3679796",
+        "percentage_solved": 0.02550200469900844,
+        "points": 3921.2603550295858
+    },
+    "0624": {
+        "title": "Two Heads Are Better Than One",
+        "solved_by": 688,
+        "solution": "984524441",
+        "percentage_solved": 0.05190940601454972,
+        "points": 1926.4331395348838
+    },
+    "0625": {
+        "title": "Gcd Sum",
+        "solved_by": 689,
+        "solution": "551614306",
+        "percentage_solved": 0.05198485573259413,
+        "points": 1923.6371552975327
+    },
+    "0626": {
+        "title": "Counting Binary Matrices",
+        "solved_by": 239,
+        "solution": "695577663",
+        "percentage_solved": 0.018032482612612477,
+        "points": 5545.548117154812
+    },
+    "0627": {
+        "title": "Counting Products",
+        "solved_by": 257,
+        "solution": "220196142",
+        "percentage_solved": 0.019390577537411743,
+        "points": 5157.1439688715955
+    },
+    "0628": {
+        "title": "Open Chess Positions",
+        "solved_by": 852,
+        "solution": "210286684",
+        "percentage_solved": 0.06428315977383194,
+        "points": 1555.6173708920187
+    },
+    "0629": {
+        "title": "Scatterstone Nim",
+        "solved_by": 264,
+        "solution": "626616617",
+        "percentage_solved": 0.01991872556372257,
+        "points": 5020.401515151515
+    },
+    "0630": {
+        "title": "Crossed Lines",
+        "solved_by": 1099,
+        "solution": "9669182880384",
+        "percentage_solved": 0.08291924013079963,
+        "points": 1205.992720655141
+    },
+    "0631": {
+        "title": "Constrained Permutations",
+        "solved_by": 203,
+        "solution": "869588692",
+        "percentage_solved": 0.015316292763013944,
+        "points": 6528.995073891626
+    },
+    "0632": {
+        "title": "Square Prime Factors",
+        "solved_by": 530,
+        "solution": "728378714",
+        "percentage_solved": 0.03998835056353395,
+        "points": 2500.7283018867925
+    },
+    "0633": {
+        "title": "Square Prime Factors II",
+        "solved_by": 347,
+        "solution": "1.0012e-10",
+        "percentage_solved": 0.026181052161408074,
+        "points": 3819.556195965418
+    },
+    "0634": {
+        "title": "Numbers of the Form $a^2b^3$",
+        "solved_by": 673,
+        "solution": "4019680944",
+        "percentage_solved": 0.050777660243883666,
+        "points": 1969.369985141159
+    },
+    "0635": {
+        "title": "Subset Sums",
+        "solved_by": 372,
+        "solution": "689294705",
+        "percentage_solved": 0.028067295112518164,
+        "points": 3562.8655913978496
+    },
+    "0636": {
+        "title": "Restricted Factorisations",
+        "solved_by": 212,
+        "solution": "888316",
+        "percentage_solved": 0.015995340225413577,
+        "points": 6251.820754716981
+    },
+    "0637": {
+        "title": "Flexible Digit Sum",
+        "solved_by": 349,
+        "solution": "49000634845039",
+        "percentage_solved": 0.02633195159749688,
+        "points": 3797.6676217765043
+    },
+    "0638": {
+        "title": "Weighted Lattice Paths",
+        "solved_by": 407,
+        "solution": "18423394",
+        "percentage_solved": 0.030708035244072292,
+        "points": 3256.4766584766585
+    },
+    "0639": {
+        "title": "Summing a Multiplicative Function",
+        "solved_by": 291,
+        "solution": "797866893",
+        "percentage_solved": 0.021955867950921467,
+        "points": 4554.591065292097
+    },
+    "0640": {
+        "title": "Shut the Box",
+        "solved_by": 393,
+        "solution": "50.317928",
+        "percentage_solved": 0.02965173919145064,
+        "points": 3372.4834605597966
+    },
+    "0641": {
+        "title": "A Long Row of Dice",
+        "solved_by": 537,
+        "solution": "793525366",
+        "percentage_solved": 0.04051649858984477,
+        "points": 2468.130353817505
+    },
+    "0642": {
+        "title": "Sum of Largest Prime Factors",
+        "solved_by": 390,
+        "solution": "631499044",
+        "percentage_solved": 0.02942539003731743,
+        "points": 3398.425641025641
+    },
+    "0643": {
+        "title": "$2$-Friendly",
+        "solved_by": 672,
+        "solution": "968274154",
+        "percentage_solved": 0.050702210525839266,
+        "points": 1972.3005952380952
+    },
+    "0644": {
+        "title": "Squares on the Line",
+        "solved_by": 174,
+        "solution": "20.11208767",
+        "percentage_solved": 0.013128250939726239,
+        "points": 7617.16091954023
+    },
+    "0645": {
+        "title": "Every Day Is a Holiday",
+        "solved_by": 228,
+        "solution": "48894.2174",
+        "percentage_solved": 0.017202535714124036,
+        "points": 5813.096491228071
+    },
+    "0646": {
+        "title": "Bounded Divisors",
+        "solved_by": 303,
+        "solution": "845218467",
+        "percentage_solved": 0.022861264567454312,
+        "points": 4374.211221122112
+    },
+    "0647": {
+        "title": "Linear Transformations of Polygonal Numbers",
+        "solved_by": 470,
+        "solution": "563132994232918611",
+        "percentage_solved": 0.03546136748086973,
+        "points": 2819.9702127659575
+    },
+    "0648": {
+        "title": "Skipping Squares",
+        "solved_by": 313,
+        "solution": "301483197",
+        "percentage_solved": 0.023615761747898346,
+        "points": 4234.460063897764
+    },
+    "0649": {
+        "title": "Low-Prime Chessboard Nim",
+        "solved_by": 443,
+        "solution": "924668016",
+        "percentage_solved": 0.03342422509367082,
+        "points": 2991.841986455982
+    },
+    "0650": {
+        "title": "Divisors of Binomial Product",
+        "solved_by": 1819,
+        "solution": "538319652",
+        "percentage_solved": 0.13724303712277025,
+        "points": 728.634414513469
+    },
+    "0651": {
+        "title": "Patterned Cylinders",
+        "solved_by": 185,
+        "solution": "448233151",
+        "percentage_solved": 0.013958197838214679,
+        "points": 7164.248648648649
+    },
+    "0652": {
+        "title": "Distinct Values of a Proto-logarithmic Function",
+        "solved_by": 181,
+        "solution": "983924497",
+        "percentage_solved": 0.013656398966037065,
+        "points": 7322.574585635359
+    },
+    "0653": {
+        "title": "Frictionless Tube",
+        "solved_by": 341,
+        "solution": "1130658687",
+        "percentage_solved": 0.02572835385314165,
+        "points": 3886.7624633431087
+    },
+    "0654": {
+        "title": "Neighbourly Constraints",
+        "solved_by": 374,
+        "solution": "815868280",
+        "percentage_solved": 0.02821819454860697,
+        "points": 3543.812834224599
+    },
+    "0655": {
+        "title": "Divisible Palindromes",
+        "solved_by": 589,
+        "solution": "2000008332",
+        "percentage_solved": 0.04443988392815376,
+        "points": 2250.2308998302206
+    },
+    "0656": {
+        "title": "Palindromic Sequences",
+        "solved_by": 258,
+        "solution": "888873503555187",
+        "percentage_solved": 0.019466027255456146,
+        "points": 5137.15503875969
+    },
+    "0657": {
+        "title": "Incomplete Words",
+        "solved_by": 595,
+        "solution": "219493139",
+        "percentage_solved": 0.04489258223642018,
+        "points": 2227.5394957983194
+    },
+    "0658": {
+        "title": "Incomplete Words II",
+        "solved_by": 261,
+        "solution": "958280177",
+        "percentage_solved": 0.019692376409589357,
+        "points": 5078.107279693487
+    },
+    "0659": {
+        "title": "Largest Prime",
+        "solved_by": 1054,
+        "solution": "238518915714422000",
+        "percentage_solved": 0.07952400281880147,
+        "points": 1257.4819734345351
+    },
+    "0660": {
+        "title": "Pandigital Triangles",
+        "solved_by": 328,
+        "solution": "474766783",
+        "percentage_solved": 0.024747507518564405,
+        "points": 4040.810975609756
+    },
+    "0661": {
+        "title": "A Long Chess Match",
+        "solved_by": 248,
+        "solution": "646231.2177",
+        "percentage_solved": 0.018711530075012108,
+        "points": 5344.298387096775
+    },
+    "0662": {
+        "title": "Fibonacci Paths",
+        "solved_by": 874,
+        "solution": "860873428",
+        "percentage_solved": 0.0659430535708088,
+        "points": 1516.4599542334097
+    },
+    "0663": {
+        "title": "Sums of Subarrays",
+        "solved_by": 392,
+        "solution": "1884138010064752",
+        "percentage_solved": 0.029576289473406236,
+        "points": 3381.0867346938776
+    },
+    "0664": {
+        "title": "An Infinite Game",
+        "solved_by": 209,
+        "solution": "35295862",
+        "percentage_solved": 0.015768991071280367,
+        "points": 6341.55980861244
+    },
+    "0665": {
+        "title": "Proportionate Nim",
+        "solved_by": 271,
+        "solution": "11541685709674",
+        "percentage_solved": 0.020446873590033394,
+        "points": 4890.723247232472
+    },
+    "0666": {
+        "title": "Polymorphic Bacteria",
+        "solved_by": 314,
+        "solution": "0.48023168",
+        "percentage_solved": 0.023691211465942753,
+        "points": 4220.974522292993
+    },
+    "0667": {
+        "title": "Moving Pentagon",
+        "solved_by": 217,
+        "solution": "1.5276527928",
+        "percentage_solved": 0.016372588815635598,
+        "points": 6107.769585253456
+    },
+    "0668": {
+        "title": "Square Root Smooth Numbers",
+        "solved_by": 1142,
+        "solution": "2811077773",
+        "percentage_solved": 0.08616357800670899,
+        "points": 1160.583187390543
+    },
+    "0669": {
+        "title": "The King's Banquet",
+        "solved_by": 334,
+        "solution": "56342087360542122",
+        "percentage_solved": 0.025200205826830826,
+        "points": 3968.2215568862275
+    },
+    "0670": {
+        "title": "Colouring a Strip",
+        "solved_by": 368,
+        "solution": "551055065",
+        "percentage_solved": 0.02776549624034055,
+        "points": 3601.592391304348
+    },
+    "0671": {
+        "title": "Colouring a Loop",
+        "solved_by": 193,
+        "solution": "946106780",
+        "percentage_solved": 0.014561795582569908,
+        "points": 6867.284974093264
+    },
+    "0672": {
+        "title": "One More One",
+        "solved_by": 288,
+        "solution": "91627537",
+        "percentage_solved": 0.021729518796788253,
+        "points": 4602.034722222223
+    },
+    "0673": {
+        "title": "Beds and Desks",
+        "solved_by": 338,
+        "solution": "700325380",
+        "percentage_solved": 0.02550200469900844,
+        "points": 3921.2603550295858
+    },
+    "0674": {
+        "title": "Solving $\\mathcal{I}$-equations",
+        "solved_by": 183,
+        "solution": "416678753",
+        "percentage_solved": 0.013807298402125872,
+        "points": 7242.546448087432
+    },
+    "0675": {
+        "title": "$2^{\\omega(n)}$",
+        "solved_by": 821,
+        "solution": "416146418",
+        "percentage_solved": 0.06194421851445541,
+        "points": 1614.355663824604
+    },
+    "0676": {
+        "title": "Matching Digit Sums",
+        "solved_by": 250,
+        "solution": "3562668074339584",
+        "percentage_solved": 0.01886242951110092,
+        "points": 5301.544
+    },
+    "0677": {
+        "title": "Coloured Graphs",
+        "solved_by": 194,
+        "solution": "984183023",
+        "percentage_solved": 0.014637245300614311,
+        "points": 6831.886597938144
+    },
+    "0678": {
+        "title": "Fermat-like Equations",
+        "solved_by": 254,
+        "solution": "1986065",
+        "percentage_solved": 0.019164228383278532,
+        "points": 5218.055118110236
+    },
+    "0679": {
+        "title": "Freefarea",
+        "solved_by": 962,
+        "solution": "644997092988678",
+        "percentage_solved": 0.07258262875871634,
+        "points": 1377.7401247401247
+    },
+    "0680": {
+        "title": "Yarra Gnisrever",
+        "solved_by": 208,
+        "solution": "563917241",
+        "percentage_solved": 0.015693541353235963,
+        "points": 6372.048076923077
+    },
+    "0681": {
+        "title": "Maximal Area",
+        "solved_by": 250,
+        "solution": "2611227421428",
+        "percentage_solved": 0.01886242951110092,
+        "points": 5301.544
+    },
+    "0682": {
+        "title": "$5$-Smooth Pairs",
+        "solved_by": 291,
+        "solution": "290872710",
+        "percentage_solved": 0.021955867950921467,
+        "points": 4554.591065292097
+    },
+    "0683": {
+        "title": "The Chase II",
+        "solved_by": 349,
+        "solution": "2.38955315e11",
+        "percentage_solved": 0.02633195159749688,
+        "points": 3797.6676217765043
+    },
+    "0684": {
+        "title": "Inverse Digit Sum",
+        "solved_by": 2962,
+        "solution": "922058210",
+        "percentage_solved": 0.22348206484752367,
+        "points": 447.46320054017554
+    },
+    "0685": {
+        "title": "Inverse Digit Sum II",
+        "solved_by": 220,
+        "solution": "662878999",
+        "percentage_solved": 0.016598937969768808,
+        "points": 6024.481818181818
+    },
+    "0686": {
+        "title": "Powers of Two",
+        "solved_by": 3817,
+        "solution": "193060223",
+        "percentage_solved": 0.2879915737754888,
+        "points": 347.23238145140164
+    },
+    "0687": {
+        "title": "Shuffling Cards",
+        "solved_by": 338,
+        "solution": "0.3285320869",
+        "percentage_solved": 0.02550200469900844,
+        "points": 3921.2603550295858
+    },
+    "0688": {
+        "title": "Piles of Plates",
+        "solved_by": 831,
+        "solution": "110941813",
+        "percentage_solved": 0.06269871569489945,
+        "points": 1594.9290012033694
+    },
+    "0689": {
+        "title": "Binary Series",
+        "solved_by": 243,
+        "solution": "0.56565454",
+        "percentage_solved": 0.01833428148479009,
+        "points": 5454.263374485597
+    },
+    "0690": {
+        "title": "Tom and Jerry",
+        "solved_by": 225,
+        "solution": "415157690",
+        "percentage_solved": 0.016976186559990825,
+        "points": 5890.604444444444
+    },
+    "0691": {
+        "title": "Long Substring with Many Repetitions",
+        "solved_by": 292,
+        "solution": "11570761",
+        "percentage_solved": 0.02203131766896587,
+        "points": 4538.993150684932
+    },
+    "0692": {
+        "title": "Siegbert and Jo",
+        "solved_by": 1463,
+        "solution": "842043391019219959",
+        "percentage_solved": 0.11038293749896257,
+        "points": 905.9371155160629
+    },
+    "0693": {
+        "title": "Finite Sequence Generator",
+        "solved_by": 308,
+        "solution": "699161",
+        "percentage_solved": 0.02323851315767633,
+        "points": 4303.201298701299
+    },
+    "0694": {
+        "title": "Cube-full Divisors",
+        "solved_by": 1108,
+        "solution": "1339784153569958487",
+        "percentage_solved": 0.08359828759319926,
+        "points": 1196.1967509025271
+    },
+    "0695": {
+        "title": "Random Rectangles",
+        "solved_by": 231,
+        "solution": "0.1017786859",
+        "percentage_solved": 0.01742888486825725,
+        "points": 5737.601731601731
+    },
+    "0696": {
+        "title": "Mahjong",
+        "solved_by": 191,
+        "solution": "436944244",
+        "percentage_solved": 0.014410896146481101,
+        "points": 6939.193717277487
+    },
+    "0697": {
+        "title": "Randomly Decaying Sequence",
+        "solved_by": 627,
+        "solution": "4343871.06",
+        "percentage_solved": 0.0473069732138411,
+        "points": 2113.85326953748
+    },
+    "0698": {
+        "title": "123 Numbers",
+        "solved_by": 482,
+        "solution": "57808202",
+        "percentage_solved": 0.03636676409740257,
+        "points": 2749.7634854771786
+    },
+    "0699": {
+        "title": "Triffle Numbers",
+        "solved_by": 205,
+        "solution": "37010438774467572",
+        "percentage_solved": 0.015467192199102753,
+        "points": 6465.2975609756095
+    },
+    "0700": {
+        "title": "Eulercoin",
+        "solved_by": 3772,
+        "solution": "1517926517777556",
+        "percentage_solved": 0.28459633646349064,
+        "points": 351.37486744432664
+    },
+    "0701": {
+        "title": "Random Connected Area",
+        "solved_by": 378,
+        "solution": "13.51099836",
+        "percentage_solved": 0.028519993420784588,
+        "points": 3506.3121693121693
+    },
+    "0702": {
+        "title": "Jumping Flea",
+        "solved_by": 175,
+        "solution": "622305608172525546",
+        "percentage_solved": 0.013203700657770642,
+        "points": 7573.634285714285
+    },
+    "0703": {
+        "title": "Circular Logic II",
+        "solved_by": 339,
+        "solution": "843437991",
+        "percentage_solved": 0.025577454417052843,
+        "points": 3909.693215339233
+    },
+    "0704": {
+        "title": "Factors of Two in Binomial Coefficients",
+        "solved_by": 1034,
+        "solution": "501985601490518144",
+        "percentage_solved": 0.07801500845791338,
+        "points": 1281.8046421663444
+    },
+    "0705": {
+        "title": "Total Inversion Count of Divided Sequences",
+        "solved_by": 477,
+        "solution": "480440153",
+        "percentage_solved": 0.03598951550718055,
+        "points": 2778.587002096436
+    },
+    "0706": {
+        "title": "$3$-Like Numbers",
+        "solved_by": 615,
+        "solution": "884837055",
+        "percentage_solved": 0.04640157659730826,
+        "points": 2155.09918699187
+    },
+    "0707": {
+        "title": "Lights Out",
+        "solved_by": 249,
+        "solution": "652907799",
+        "percentage_solved": 0.01878697979305651,
+        "points": 5322.835341365462
+    },
+    "0708": {
+        "title": "Twos Are All You Need",
+        "solved_by": 339,
+        "solution": "28874142998632109",
+        "percentage_solved": 0.025577454417052843,
+        "points": 3909.693215339233
+    },
+    "0709": {
+        "title": "Even Stevens",
+        "solved_by": 959,
+        "solution": "773479144",
+        "percentage_solved": 0.07235627960458312,
+        "points": 1382.0500521376434
+    },
+    "0710": {
+        "title": "One Million Members",
+        "solved_by": 1383,
+        "solution": "1275000",
+        "percentage_solved": 0.10434696005541028,
+        "points": 958.3412870571221
+    },
+    "0711": {
+        "title": "Binary Blackboard",
+        "solved_by": 350,
+        "solution": "541510990",
+        "percentage_solved": 0.026407401315541285,
+        "points": 3786.8171428571427
+    },
+    "0712": {
+        "title": "Exponent Difference",
+        "solved_by": 534,
+        "solution": "413876461",
+        "percentage_solved": 0.04029014943571156,
+        "points": 2481.9962546816478
+    },
+    "0713": {
+        "title": "Tur\u00e1n's Water Heating System",
+        "solved_by": 761,
+        "solution": "788626351539895",
+        "percentage_solved": 0.0574172354317912,
+        "points": 1741.6373193166885
+    },
+    "0714": {
+        "title": "Duodigits",
+        "solved_by": 775,
+        "solution": "2.452767775565e20",
+        "percentage_solved": 0.05847353148441284,
+        "points": 1710.1754838709678
+    },
+    "0715": {
+        "title": "Sextuplet Norms",
+        "solved_by": 213,
+        "solution": "883188017",
+        "percentage_solved": 0.016070789943457984,
+        "points": 6222.469483568075
+    },
+    "0716": {
+        "title": "Grid Graphs",
+        "solved_by": 242,
+        "solution": "238948623",
+        "percentage_solved": 0.018258831766745687,
+        "points": 5476.801652892562
+    },
+    "0717": {
+        "title": "Summation of a Modular Formula",
+        "solved_by": 540,
+        "solution": "1603036763131",
+        "percentage_solved": 0.04074284774397798,
+        "points": 2454.4185185185183
+    },
+    "0718": {
+        "title": "Unreachable Numbers",
+        "solved_by": 355,
+        "solution": "228579116",
+        "percentage_solved": 0.026784649905763305,
+        "points": 3733.481690140845
+    },
+    "0719": {
+        "title": "Number Splitting",
+        "solved_by": 4290,
+        "solution": "128088830547982",
+        "percentage_solved": 0.32367929041049176,
+        "points": 308.94778554778554
+    },
+    "0720": {
+        "title": "Unpredictable Permutations",
+        "solved_by": 320,
+        "solution": "688081048",
+        "percentage_solved": 0.024143909774209174,
+        "points": 4141.83125
+    },
+    "0721": {
+        "title": "High Powers of Irrational Numbers",
+        "solved_by": 458,
+        "solution": "700792959",
+        "percentage_solved": 0.03455597086433688,
+        "points": 2893.8558951965065
+    },
+    "0722": {
+        "title": "Slowly Converging Series",
+        "solved_by": 554,
+        "solution": "3.376792776502e132",
+        "percentage_solved": 0.04179914379659963,
+        "points": 2392.3935018050543
+    },
+    "0723": {
+        "title": "Pythagorean Quadrilaterals",
+        "solved_by": 193,
+        "solution": "1395793419248",
+        "percentage_solved": 0.014561795582569908,
+        "points": 6867.284974093264
+    },
+    "0724": {
+        "title": "Drone Delivery",
+        "solved_by": 419,
+        "solution": "18128250110",
+        "percentage_solved": 0.03161343186060513,
+        "points": 3163.2124105011935
+    },
+    "0725": {
+        "title": "Digit Sum Numbers",
+        "solved_by": 1189,
+        "solution": "4598797036650685",
+        "percentage_solved": 0.08970971475479596,
+        "points": 1114.7064760302776
+    },
+    "0726": {
+        "title": "Falling Bottles",
+        "solved_by": 205,
+        "solution": "578040951",
+        "percentage_solved": 0.015467192199102753,
+        "points": 6465.2975609756095
+    },
+    "0727": {
+        "title": "Triangle of Circular Arcs",
+        "solved_by": 545,
+        "solution": "3.64039141",
+        "percentage_solved": 0.041120096334199996,
+        "points": 2431.9009174311927
+    },
+    "0728": {
+        "title": "Circle of Coins",
+        "solved_by": 294,
+        "solution": "709874991",
+        "percentage_solved": 0.02218221710505468,
+        "points": 4508.115646258503
+    },
+    "0729": {
+        "title": "Range of Periodic Sequence",
+        "solved_by": 204,
+        "solution": "308896374.2502",
+        "percentage_solved": 0.01539174248105835,
+        "points": 6496.990196078431
+    },
+    "0730": {
+        "title": "Shifted Pythagorean Triples",
+        "solved_by": 194,
+        "solution": "1315965924",
+        "percentage_solved": 0.014637245300614311,
+        "points": 6831.886597938144
+    },
+    "0731": {
+        "title": "A Stoneham Number",
+        "solved_by": 609,
+        "solution": "6086371427",
+        "percentage_solved": 0.04594887828904183,
+        "points": 2176.3316912972086
+    },
+    "0732": {
+        "title": "Standing on the Shoulders of Trolls",
+        "solved_by": 230,
+        "solution": "45609",
+        "percentage_solved": 0.017353435150212843,
+        "points": 5762.547826086957
+    },
+    "0733": {
+        "title": "Ascending Subsequences",
+        "solved_by": 497,
+        "solution": "574368578",
+        "percentage_solved": 0.03749850986806862,
+        "points": 2666.7726358148893
+    },
+    "0734": {
+        "title": "A Bit of Prime",
+        "solved_by": 343,
+        "solution": "557988060",
+        "percentage_solved": 0.025879253289230457,
+        "points": 3864.0991253644315
+    },
+    "0735": {
+        "title": "Divisors of $2n^2$",
+        "solved_by": 227,
+        "solution": "174848216767932",
+        "percentage_solved": 0.017127085996079632,
+        "points": 5838.704845814978
+    },
+    "0736": {
+        "title": "Paths to Equality",
+        "solved_by": 238,
+        "solution": "25332747903959376",
+        "percentage_solved": 0.017957032894568074,
+        "points": 5568.848739495798
+    },
+    "0737": {
+        "title": "Coin Loops",
+        "solved_by": 390,
+        "solution": "757794899",
+        "percentage_solved": 0.02942539003731743,
+        "points": 3398.425641025641
+    },
+    "0738": {
+        "title": "Counting Ordered Factorisations",
+        "solved_by": 291,
+        "solution": "143091030",
+        "percentage_solved": 0.021955867950921467,
+        "points": 4554.591065292097
+    },
+    "0739": {
+        "title": "Summation of Summations",
+        "solved_by": 539,
+        "solution": "711399016",
+        "percentage_solved": 0.040667398025933575,
+        "points": 2458.9721706864566
+    },
+    "0740": {
+        "title": "Secret Santa",
+        "solved_by": 220,
+        "solution": "0.0189581208",
+        "percentage_solved": 0.016598937969768808,
+        "points": 6024.481818181818
+    },
+    "0741": {
+        "title": "Binary Grid Colouring",
+        "solved_by": 167,
+        "solution": "512895223",
+        "percentage_solved": 0.012600102913415413,
+        "points": 7936.443113772455
+    },
+    "0742": {
+        "title": "Minimum Area of a Convex Grid Polygon",
+        "solved_by": 172,
+        "solution": "18397727",
+        "percentage_solved": 0.01297735150363743,
+        "points": 7705.732558139535
+    },
+    "0743": {
+        "title": "Window into a Matrix",
+        "solved_by": 1270,
+        "solution": "259158998",
+        "percentage_solved": 0.09582114191639265,
+        "points": 1043.6110236220472
+    },
+    "0744": {
+        "title": "What? Where? When?",
+        "solved_by": 321,
+        "solution": "0.0001999600",
+        "percentage_solved": 0.02421935949225358,
+        "points": 4128.928348909657
+    },
+    "0745": {
+        "title": "Sum of Squares II",
+        "solved_by": 1292,
+        "solution": "94586478",
+        "percentage_solved": 0.09748103571336954,
+        "points": 1025.8405572755419
+    },
+    "0746": {
+        "title": "A Messy Dinner",
+        "solved_by": 297,
+        "solution": "867150922",
+        "percentage_solved": 0.02240856625918789,
+        "points": 4462.579124579124
+    },
+    "0747": {
+        "title": "Triangular Pizza",
+        "solved_by": 208,
+        "solution": "681813395",
+        "percentage_solved": 0.015693541353235963,
+        "points": 6372.048076923077
+    },
+    "0748": {
+        "title": "Upside Down Diophantine Equation",
+        "solved_by": 322,
+        "solution": "276402862",
+        "percentage_solved": 0.024294809210297977,
+        "points": 4116.105590062112
+    },
+    "0749": {
+        "title": "Near Power Sums",
+        "solved_by": 770,
+        "solution": "13459471903176422",
+        "percentage_solved": 0.058096282894190825,
+        "points": 1721.2805194805194
+    },
+    "0750": {
+        "title": "Optimal Card Stacking",
+        "solved_by": 340,
+        "solution": "160640",
+        "percentage_solved": 0.02565290413509725,
+        "points": 3898.1941176470586
+    },
+    "0751": {
+        "title": "Concatenation Coincidence",
+        "solved_by": 2470,
+        "solution": "2.223561019313554106173177",
+        "percentage_solved": 0.18636080356967705,
+        "points": 536.5935222672065
+    },
+    "0752": {
+        "title": "Powers of $1+\\sqrt 7$",
+        "solved_by": 695,
+        "solution": "5610899769745488",
+        "percentage_solved": 0.05243755404086055,
+        "points": 1907.0302158273382
+    },
+    "0753": {
+        "title": "Fermat Equation",
+        "solved_by": 411,
+        "solution": "4714126766770661630",
+        "percentage_solved": 0.03100983411624991,
+        "points": 3224.7834549878344
+    },
+    "0754": {
+        "title": "Product of Gauss Factorials",
+        "solved_by": 751,
+        "solution": "785845900",
+        "percentage_solved": 0.056662738251347156,
+        "points": 1764.8282290279626
+    },
+    "0755": {
+        "title": "Not Zeckendorf",
+        "solved_by": 938,
+        "solution": "2877071595975576960",
+        "percentage_solved": 0.07077183552565064,
+        "points": 1412.9914712153518
+    },
+    "0756": {
+        "title": "Approximating a Sum",
+        "solved_by": 348,
+        "solution": "607238.610661",
+        "percentage_solved": 0.026256501879452478,
+        "points": 3808.580459770115
+    },
+    "0757": {
+        "title": "Stealthy Numbers",
+        "solved_by": 1307,
+        "solution": "75737353",
+        "percentage_solved": 0.0986127814840356,
+        "points": 1014.0673297628156
+    },
+    "0758": {
+        "title": "Buckets of Water",
+        "solved_by": 231,
+        "solution": "331196954",
+        "percentage_solved": 0.01742888486825725,
+        "points": 5737.601731601731
+    },
+    "0759": {
+        "title": "A Squared Recurrence Relation",
+        "solved_by": 578,
+        "solution": "282771304",
+        "percentage_solved": 0.04360993702966532,
+        "points": 2293.055363321799
+    },
+    "0760": {
+        "title": "Sum over Bitwise Operators",
+        "solved_by": 449,
+        "solution": "172747503",
+        "percentage_solved": 0.03387692340193725,
+        "points": 2951.861915367483
+    },
+    "0761": {
+        "title": "Runner and Swimmer",
+        "solved_by": 169,
+        "solution": "5.05505046",
+        "percentage_solved": 0.01275100234950422,
+        "points": 7842.5207100591715
+    },
+    "0762": {
+        "title": "Amoebas in a 2D Grid",
+        "solved_by": 222,
+        "solution": "285528863",
+        "percentage_solved": 0.016749837405857615,
+        "points": 5970.207207207207
+    },
+    "0763": {
+        "title": "Amoebas in a 3D Grid",
+        "solved_by": 165,
+        "solution": "798443574",
+        "percentage_solved": 0.012449203477326604,
+        "points": 8032.642424242425
+    },
+    "0764": {
+        "title": "Asymmetric Diophantine Equation",
+        "solved_by": 387,
+        "solution": "255228881",
+        "percentage_solved": 0.029199040883184223,
+        "points": 3424.770025839793
+    },
+    "0765": {
+        "title": "Trillionaire",
+        "solved_by": 228,
+        "solution": "0.2429251641",
+        "percentage_solved": 0.017202535714124036,
+        "points": 5813.096491228071
+    },
+    "0766": {
+        "title": "Sliding Block Puzzle",
+        "solved_by": 337,
+        "solution": "2613742",
+        "percentage_solved": 0.025426554980964036,
+        "points": 3932.896142433234
+    },
+    "0767": {
+        "title": "Window into a Matrix II",
+        "solved_by": 183,
+        "solution": "783976175",
+        "percentage_solved": 0.013807298402125872,
+        "points": 7242.546448087432
+    },
+    "0768": {
+        "title": "Chandelier",
+        "solved_by": 190,
+        "solution": "14655308696436060",
+        "percentage_solved": 0.014335446428436698,
+        "points": 6975.715789473684
+    },
+    "0769": {
+        "title": "Binary Quadratic Form II",
+        "solved_by": 153,
+        "solution": "14246712611506",
+        "percentage_solved": 0.011543806860793761,
+        "points": 8662.653594771242
+    },
+    "0770": {
+        "title": "Delphi Flip",
+        "solved_by": 527,
+        "solution": "127311223",
+        "percentage_solved": 0.039762001409400734,
+        "points": 2514.9639468690702
+    },
+    "0771": {
+        "title": "Pseudo Geometric Sequences",
+        "solved_by": 134,
+        "solution": "398803409",
+        "percentage_solved": 0.01011026221795009,
+        "points": 9890.940298507463
+    },
+    "0772": {
+        "title": "Balanceable $k$-bounded Partitions",
+        "solved_by": 533,
+        "solution": "83985379",
+        "percentage_solved": 0.040214699717667154,
+        "points": 2486.6529080675423
+    },
+    "0773": {
+        "title": "Ruff Numbers",
+        "solved_by": 207,
+        "solution": "556206950",
+        "percentage_solved": 0.01561809163519156,
+        "points": 6402.830917874396
+    },
+    "0774": {
+        "title": "Conjunctive Sequences",
+        "solved_by": 144,
+        "solution": "459155763",
+        "percentage_solved": 0.010864759398394127,
+        "points": 9204.069444444445
+    },
+    "0775": {
+        "title": "Saving Paper",
+        "solved_by": 254,
+        "solution": "946791106",
+        "percentage_solved": 0.019164228383278532,
+        "points": 5218.055118110236
+    },
+    "0776": {
+        "title": "Digit Sum Division",
+        "solved_by": 569,
+        "solution": "9.627509725002e33",
+        "percentage_solved": 0.042930889567265686,
+        "points": 2329.3251318101934
+    },
+    "0777": {
+        "title": "Lissajous Curves",
+        "solved_by": 133,
+        "solution": "2.533018434e23",
+        "percentage_solved": 0.010034812499905689,
+        "points": 9965.30827067669
+    },
+    "0778": {
+        "title": "Freshman's Product",
+        "solved_by": 423,
+        "solution": "146133880",
+        "percentage_solved": 0.031915230732782754,
+        "points": 3133.300236406619
+    },
+    "0779": {
+        "title": "Prime Factor and Exponent",
+        "solved_by": 511,
+        "solution": "0.547326103833",
+        "percentage_solved": 0.03855480592069027,
+        "points": 2593.710371819961
+    },
+    "0780": {
+        "title": "Toriangulations",
+        "solved_by": 137,
+        "solution": "613979935",
+        "percentage_solved": 0.010336611372083302,
+        "points": 9674.350364963504
+    },
+    "0781": {
+        "title": "Feynman Diagrams",
+        "solved_by": 132,
+        "solution": "162450870",
+        "percentage_solved": 0.009959362781861285,
+        "points": 10040.80303030303
+    },
+    "0782": {
+        "title": "Distinct Rows and Columns",
+        "solved_by": 158,
+        "solution": "318313204",
+        "percentage_solved": 0.011921055451015778,
+        "points": 8388.518987341773
+    },
+    "0783": {
+        "title": "Urns",
+        "solved_by": 203,
+        "solution": "136666597",
+        "percentage_solved": 0.015316292763013944,
+        "points": 6528.995073891626
+    },
+    "0784": {
+        "title": "Reciprocal Pairs",
+        "solved_by": 419,
+        "solution": "5833303012576429231",
+        "percentage_solved": 0.03161343186060513,
+        "points": 3163.2124105011935
+    },
+    "0785": {
+        "title": "Symmetric Diophantine Equation",
+        "solved_by": 204,
+        "solution": "29526986315080920",
+        "percentage_solved": 0.01539174248105835,
+        "points": 6496.990196078431
+    },
+    "0786": {
+        "title": "Billiard",
+        "solved_by": 129,
+        "solution": "45594532839912702",
+        "percentage_solved": 0.009733013627728073,
+        "points": 10274.31007751938
+    },
+    "0787": {
+        "title": "B\u00e9zout's Game",
+        "solved_by": 205,
+        "solution": "202642367520564145",
+        "percentage_solved": 0.015467192199102753,
+        "points": 6465.2975609756095
+    },
+    "0788": {
+        "title": "Dominating Numbers",
+        "solved_by": 1241,
+        "solution": "471745499",
+        "percentage_solved": 0.09363310009310497,
+        "points": 1067.9983883964544
+    },
+    "0789": {
+        "title": "Minimal Pairing Modulo $p$",
+        "solved_by": 202,
+        "solution": "13431419535872807040",
+        "percentage_solved": 0.015240843044969542,
+        "points": 6561.316831683168
+    },
+    "0790": {
+        "title": "Clock Grid",
+        "solved_by": 269,
+        "solution": "16585056588495119",
+        "percentage_solved": 0.020295974153944584,
+        "points": 4927.085501858736
+    },
+    "0791": {
+        "title": "Average and Variance",
+        "solved_by": 162,
+        "solution": "404890862",
+        "percentage_solved": 0.012222854323193394,
+        "points": 8181.395061728395
+    },
+    "0792": {
+        "title": "Too Many Twos",
+        "solved_by": 148,
+        "solution": "2500500025183626",
+        "percentage_solved": 0.011166558270571744,
+        "points": 8955.31081081081
+    },
+    "0793": {
+        "title": "Median of Products",
+        "solved_by": 702,
+        "solution": "475808650131120",
+        "percentage_solved": 0.052965702067171376,
+        "points": 1888.014245014245
+    },
+    "0794": {
+        "title": "Seventeen Points",
+        "solved_by": 328,
+        "solution": "8.146681749623",
+        "percentage_solved": 0.024747507518564405,
+        "points": 4040.810975609756
+    },
+    "0795": {
+        "title": "Alternating GCD Sum",
+        "solved_by": 372,
+        "solution": "955892601606483",
+        "percentage_solved": 0.028067295112518164,
+        "points": 3562.8655913978496
+    },
+    "0796": {
+        "title": "A Grand Shuffle",
+        "solved_by": 209,
+        "solution": "43.20649061",
+        "percentage_solved": 0.015768991071280367,
+        "points": 6341.55980861244
+    },
+    "0797": {
+        "title": "Cyclogenic Polynomials",
+        "solved_by": 191,
+        "solution": "47722272",
+        "percentage_solved": 0.014410896146481101,
+        "points": 6939.193717277487
+    },
+    "0798": {
+        "title": "Card Stacking Game",
+        "solved_by": 131,
+        "solution": "132996198",
+        "percentage_solved": 0.00988391306381688,
+        "points": 10117.45038167939
+    },
+    "0799": {
+        "title": "Pentagonal Puzzle",
+        "solved_by": 239,
+        "solution": "1096910149053902",
+        "percentage_solved": 0.018032482612612477,
+        "points": 5545.548117154812
+    },
+    "0800": {
+        "title": "Hybrid Integers",
+        "solved_by": 2068,
+        "solution": "1412403576",
+        "percentage_solved": 0.15603001691582677,
+        "points": 640.9023210831722
+    },
+    "0801": {
+        "title": "$x^y \\equiv y^x$",
+        "solved_by": 286,
+        "solution": "638129754",
+        "percentage_solved": 0.02157861936069945,
+        "points": 4634.216783216783
+    },
+    "0802": {
+        "title": "Iterated Composition",
+        "solved_by": 263,
+        "solution": "973873727",
+        "percentage_solved": 0.019843275845678167,
+        "points": 5039.490494296578
+    },
+    "0803": {
+        "title": "Pseudorandom Sequence",
+        "solved_by": 231,
+        "solution": "9300900470636",
+        "percentage_solved": 0.01742888486825725,
+        "points": 5737.601731601731
+    },
+    "0804": {
+        "title": "Counting Binary Quadratic Representations",
+        "solved_by": 692,
+        "solution": "4921370551019052",
+        "percentage_solved": 0.052211204886727335,
+        "points": 1915.2976878612717
+    },
+    "0805": {
+        "title": "Shifted Multiples",
+        "solved_by": 190,
+        "solution": "119719335",
+        "percentage_solved": 0.014335446428436698,
+        "points": 6975.715789473684
+    },
+    "0806": {
+        "title": "Nim on Towers of Hanoi",
+        "solved_by": 134,
+        "solution": "94394343",
+        "percentage_solved": 0.01011026221795009,
+        "points": 9890.940298507463
+    },
+    "0807": {
+        "title": "Loops of Ropes",
+        "solved_by": 137,
+        "solution": "0.1091523673",
+        "percentage_solved": 0.010336611372083302,
+        "points": 9674.350364963504
+    },
+    "0808": {
+        "title": "Reversible Prime Squares",
+        "solved_by": 2820,
+        "solution": "3807504276997394",
+        "percentage_solved": 0.21276820488521836,
+        "points": 469.9950354609929
+    },
+    "0809": {
+        "title": "Rational Recurrence Relation",
+        "solved_by": 313,
+        "solution": "75353432948733",
+        "percentage_solved": 0.023615761747898346,
+        "points": 4234.460063897764
+    },
+    "0810": {
+        "title": "XOR-Primes",
+        "solved_by": 753,
+        "solution": "124136381",
+        "percentage_solved": 0.05681363768743596,
+        "points": 1760.140770252324
+    },
+    "0811": {
+        "title": "Bitwise Recursion",
+        "solved_by": 238,
+        "solution": "327287526",
+        "percentage_solved": 0.017957032894568074,
+        "points": 5568.848739495798
+    },
+    "0812": {
+        "title": "Dynamical Polynomials",
+        "solved_by": 138,
+        "solution": "986262698",
+        "percentage_solved": 0.010412061090127706,
+        "points": 9604.246376811594
+    },
+    "0813": {
+        "title": "XOR-Powers",
+        "solved_by": 592,
+        "solution": "14063639",
+        "percentage_solved": 0.044666233082286975,
+        "points": 2238.8277027027025
+    },
+    "0814": {
+        "title": "Mezzo-forte",
+        "solved_by": 223,
+        "solution": "307159326",
+        "percentage_solved": 0.01682528712390202,
+        "points": 5943.434977578475
+    },
+    "0815": {
+        "title": "Group by Value",
+        "solved_by": 448,
+        "solution": "54.12691621",
+        "percentage_solved": 0.033801473683892844,
+        "points": 2958.4508928571427
+    },
+    "0816": {
+        "title": "Shortest Distance Among Points",
+        "solved_by": 2242,
+        "solution": "20.880613018",
+        "percentage_solved": 0.16915826785555302,
+        "points": 591.1623550401428
+    },
+    "0817": {
+        "title": "Digits in Squares",
+        "solved_by": 478,
+        "solution": "93158936107011",
+        "percentage_solved": 0.036064965225224954,
+        "points": 2772.774058577406
+    },
+    "0818": {
+        "title": "SET",
+        "solved_by": 142,
+        "solution": "11871909492066000",
+        "percentage_solved": 0.010713859962305321,
+        "points": 9333.704225352112
+    },
+    "0819": {
+        "title": "Iterative Sampling",
+        "solved_by": 228,
+        "solution": "1995.975556",
+        "percentage_solved": 0.017202535714124036,
+        "points": 5813.096491228071
+    },
+    "0820": {
+        "title": "$N$thDigit of Reciprocals",
+        "solved_by": 1005,
+        "solution": "44967734",
+        "percentage_solved": 0.07582696663462568,
+        "points": 1318.792039800995
+    },
+    "0821": {
+        "title": "123-Separable",
+        "solved_by": 155,
+        "solution": "9219661511328178",
+        "percentage_solved": 0.01169470629688257,
+        "points": 8550.877419354838
+    },
+    "0822": {
+        "title": "Square the Smallest",
+        "solved_by": 830,
+        "solution": "950591530",
+        "percentage_solved": 0.06262326597685505,
+        "points": 1596.8506024096384
+    },
+    "0823": {
+        "title": "Factor Shuffle",
+        "solved_by": 193,
+        "solution": "865849519",
+        "percentage_solved": 0.014561795582569908,
+        "points": 6867.284974093264
+    },
+    "0824": {
+        "title": "Chess Sliders",
+        "solved_by": 124,
+        "solution": "26532152736197",
+        "percentage_solved": 0.009355765037506054,
+        "points": 10688.59677419355
+    },
+    "0825": {
+        "title": "Chasing Game",
+        "solved_by": 160,
+        "solution": "32.34481054",
+        "percentage_solved": 0.012071954887104587,
+        "points": 8283.6625
+    },
+    "0826": {
+        "title": "Birds on a Wire",
+        "solved_by": 248,
+        "solution": "0.3889014797",
+        "percentage_solved": 0.018711530075012108,
+        "points": 5344.298387096775
+    },
+    "0827": {
+        "title": "Pythagorean Triple Occurrence",
+        "solved_by": 187,
+        "solution": "397289979",
+        "percentage_solved": 0.014109097274303485,
+        "points": 7087.625668449198
+    },
+    "0828": {
+        "title": "Numbers Challenge",
+        "solved_by": 659,
+        "solution": "148693670",
+        "percentage_solved": 0.04972136419126202,
+        "points": 2011.207890743551
+    },
+    "0829": {
+        "title": "Integral Fusion",
+        "solved_by": 212,
+        "solution": "41768797657018024",
+        "percentage_solved": 0.015995340225413577,
+        "points": 6251.820754716981
+    },
+    "0830": {
+        "title": "Binomials and Powers",
+        "solved_by": 152,
+        "solution": "254179446930484376",
+        "percentage_solved": 0.011468357142749358,
+        "points": 8719.644736842105
+    },
+    "0831": {
+        "title": "Triple Product",
+        "solved_by": 188,
+        "solution": "5226432553",
+        "percentage_solved": 0.01418454699234789,
+        "points": 7049.925531914893
+    },
+    "0832": {
+        "title": "Mex Sequence",
+        "solved_by": 318,
+        "solution": "552839586",
+        "percentage_solved": 0.023993010338120364,
+        "points": 4167.8805031446545
+    },
+    "0833": {
+        "title": "Square Triangle Products",
+        "solved_by": 168,
+        "solution": "43884302",
+        "percentage_solved": 0.012675552631459816,
+        "points": 7889.202380952381
+    },
+    "0834": {
+        "title": "Add and Divide",
+        "solved_by": 411,
+        "solution": "1254404167198752370",
+        "percentage_solved": 0.03100983411624991,
+        "points": 3224.7834549878344
+    },
+    "0835": {
+        "title": "Supernatural Triangles",
+        "solved_by": 390,
+        "solution": "1050923942",
+        "percentage_solved": 0.02942539003731743,
+        "points": 3398.425641025641
+    },
+    "0836": {
+        "title": "A Bold Proposition",
+        "solved_by": 4021,
+        "solution": "aprilfoolsjoke",
+        "percentage_solved": 0.30338331625654713,
+        "points": 329.6160159164387
+    },
+    "0837": {
+        "title": "Amidakuji",
+        "solved_by": 213,
+        "solution": "428074856",
+        "percentage_solved": 0.016070789943457984,
+        "points": 6222.469483568075
+    },
+    "0838": {
+        "title": "Not Coprime",
+        "solved_by": 609,
+        "solution": "250591.442792",
+        "percentage_solved": 0.04594887828904183,
+        "points": 2176.3316912972086
+    },
+    "0839": {
+        "title": "Beans in Bowls",
+        "solved_by": 360,
+        "solution": "150893234438294408",
+        "percentage_solved": 0.02716189849598532,
+        "points": 3681.6277777777777
+    },
+    "0840": {
+        "title": "Sum of Products",
+        "solved_by": 380,
+        "solution": "194396971",
+        "percentage_solved": 0.028670892856873395,
+        "points": 3487.857894736842
+    },
+    "0841": {
+        "title": "Regular Star Polygons",
+        "solved_by": 194,
+        "solution": "381.7860132854",
+        "percentage_solved": 0.014637245300614311,
+        "points": 6831.886597938144
+    },
+    "0842": {
+        "title": "Irregular Star Polygons",
+        "solved_by": 130,
+        "solution": "885226002",
+        "percentage_solved": 0.009808463345772477,
+        "points": 10195.276923076923
+    },
+    "0843": {
+        "title": "Periodic Circles",
+        "solved_by": 132,
+        "solution": "2816775424692",
+        "percentage_solved": 0.009959362781861285,
+        "points": 10040.80303030303
+    },
+    "0844": {
+        "title": "$k$-Markov Numbers",
+        "solved_by": 211,
+        "solution": "101805206",
+        "percentage_solved": 0.015919890507369173,
+        "points": 6281.450236966824
+    },
+    "0845": {
+        "title": "Prime Digit Sum",
+        "solved_by": 773,
+        "solution": "45009328011709400",
+        "percentage_solved": 0.05832263204832404,
+        "points": 1714.600258732212
+    },
+    "0846": {
+        "title": "Magic Bracelets",
+        "solved_by": 212,
+        "solution": "9851175623",
+        "percentage_solved": 0.015995340225413577,
+        "points": 6251.820754716981
+    },
+    "0847": {
+        "title": "Jack's Bean",
+        "solved_by": 121,
+        "percentage_solved": 0.009129415883372844,
+        "points": 10953.603305785124
+    },
+    "0848": {
+        "title": "Guessing with Sets",
+        "solved_by": 208,
+        "solution": "188.45503259",
+        "percentage_solved": 0.015693541353235963,
+        "points": 6372.048076923077
+    },
+    "0849": {
+        "title": "The Tournament",
+        "solved_by": 260,
+        "solution": "936203459",
+        "percentage_solved": 0.019616926691544953,
+        "points": 5097.638461538461
+    },
+    "0850": {
+        "title": "Fractions of Powers",
+        "solved_by": 127,
+        "percentage_solved": 0.009582114191639266,
+        "points": 10436.110236220473
+    },
+    "0851": {
+        "title": "SOP and POS",
+        "solved_by": 147,
+        "solution": "726358482",
+        "percentage_solved": 0.01109110855252734,
+        "points": 9016.231292517006
+    },
+    "0852": {
+        "title": "Coins in a Box",
+        "solved_by": 234,
+        "solution": "130.313496",
+        "percentage_solved": 0.017655234022390456,
+        "points": 5664.042735042735
+    },
+    "0853": {
+        "title": "Pisano Periods 1",
+        "solved_by": 1338,
+        "solution": "44511058204",
+        "percentage_solved": 0.10095172274341212,
+        "points": 990.5724962630792
+    },
+    "0854": {
+        "title": "Pisano Periods 2",
+        "solved_by": 349,
+        "solution": "29894398",
+        "percentage_solved": 0.02633195159749688,
+        "points": 3797.6676217765043
+    },
+    "0855": {
+        "title": "Delphi Paper",
+        "solved_by": 144,
+        "percentage_solved": 0.010864759398394127,
+        "points": 9204.069444444445
+    },
+    "0856": {
+        "title": "Waiting for a Pair",
+        "solved_by": 593,
+        "solution": "17.09661501",
+        "percentage_solved": 0.04474168280033137,
+        "points": 2235.0522765598653
+    },
+    "0857": {
+        "title": "Beautiful Graphs",
+        "solved_by": 177,
+        "solution": "966332096",
+        "percentage_solved": 0.01335460009385945,
+        "points": 7488.056497175141
+    },
+    "0858": {
+        "title": "LCM",
+        "solved_by": 221,
+        "solution": "973077199",
+        "percentage_solved": 0.016674387687813208,
+        "points": 5997.221719457014
+    },
+    "0859": {
+        "title": "Cookie Game",
+        "solved_by": 227,
+        "solution": "1527162658488196",
+        "percentage_solved": 0.017127085996079632,
+        "points": 5838.704845814978
+    },
+    "0860": {
+        "title": "Gold and Silver Coin Game",
+        "solved_by": 459,
+        "solution": "958666903",
+        "percentage_solved": 0.034631420582381285,
+        "points": 2887.5511982570806
+    },
+    "0861": {
+        "title": "Products of Bi-Unitary Divisors",
+        "solved_by": 201,
+        "solution": "672623540591",
+        "percentage_solved": 0.015165393326925137,
+        "points": 6593.960199004975
+    },
+    "0862": {
+        "title": "Larger Digit Permutation",
+        "solved_by": 725,
+        "solution": "6111397420935766740",
+        "percentage_solved": 0.05470104558219266,
+        "points": 1828.1186206896552
+    },
+    "0863": {
+        "title": "Different Dice",
+        "solved_by": 222,
+        "solution": "3862.871397",
+        "percentage_solved": 0.016749837405857615,
+        "points": 5970.207207207207
+    },
+    "0864": {
+        "title": "Square + 1 = Squarefree",
+        "solved_by": 178,
+        "solution": "110572936177",
+        "percentage_solved": 0.013430049811903853,
+        "points": 7445.988764044944
+    },
+    "0865": {
+        "title": "Triplicate Numbers",
+        "solved_by": 277,
+        "solution": "761181918",
+        "percentage_solved": 0.020899571898299815,
+        "points": 4784.7870036101085
+    },
+    "0866": {
+        "title": "Tidying Up B",
+        "solved_by": 399,
+        "solution": "492401720",
+        "percentage_solved": 0.03010443749971706,
+        "points": 3321.7694235588974
+    },
+    "0867": {
+        "title": "Tiling Dodecagon",
+        "solved_by": 171,
+        "solution": "870557257",
+        "percentage_solved": 0.012901901785593027,
+        "points": 7750.795321637427
+    },
+    "0868": {
+        "title": "Belfry Maths",
+        "solved_by": 422,
+        "solution": "3832914911887589",
+        "percentage_solved": 0.03183978101473835,
+        "points": 3140.725118483412
+    },
+    "0869": {
+        "title": "Prime Guessing",
+        "solved_by": 696,
+        "solution": "14.97696693",
+        "percentage_solved": 0.052513003758904955,
+        "points": 1904.2902298850574
+    },
+    "0870": {
+        "title": "Stone Game IV",
+        "solved_by": 143,
+        "percentage_solved": 0.010789309680349725,
+        "points": 9268.433566433567
+    },
+    "0871": {
+        "title": "Drifting Subsets",
+        "solved_by": 324,
+        "solution": "2848790",
+        "percentage_solved": 0.024445708646386788,
+        "points": 4090.6975308641977
+    },
+    "0872": {
+        "title": "Recursive Tree",
+        "solved_by": 888,
+        "solution": "2903144925319290239",
+        "percentage_solved": 0.06699934962343046,
+        "points": 1492.5518018018017
+    },
+    "0873": {
+        "title": "Words with Gaps",
+        "solved_by": 299,
+        "solution": "735131856",
+        "percentage_solved": 0.022559465695276695,
+        "points": 4432.729096989967
+    },
+    "0874": {
+        "title": "Maximal Prime Score",
+        "solved_by": 497,
+        "solution": "4992775389",
+        "percentage_solved": 0.03749850986806862,
+        "points": 2666.7726358148893
+    },
+    "0875": {
+        "title": "Quadruple Congruence",
+        "solved_by": 200,
+        "solution": "79645946",
+        "percentage_solved": 0.015089943608880734,
+        "points": 6626.93
+    },
+    "0876": {
+        "title": "Triplet Tricks",
+        "solved_by": 103,
+        "percentage_solved": 0.007771320958573577,
+        "points": 12867.825242718447
+    },
+    "0877": {
+        "title": "XOR-Equation A",
+        "solved_by": 384,
+        "solution": "336785000760344621",
+        "percentage_solved": 0.02897269172905101,
+        "points": 3451.5260416666665
+    },
+    "0878": {
+        "title": "XOR-Equation B",
+        "solved_by": 232,
+        "solution": "23707109",
+        "percentage_solved": 0.017504334586301653,
+        "points": 5712.870689655172
+    },
+    "0879": {
+        "title": "Touch-screen Password",
+        "solved_by": 403,
+        "solution": "4350069824940",
+        "percentage_solved": 0.030406236371894678,
+        "points": 3288.7990074441686
+    },
+    "0880": {
+        "title": "Nested Radicals",
+        "solved_by": 109,
+        "percentage_solved": 0.00822401926684,
+        "points": 12159.504587155963
+    },
+    "0881": {
+        "title": "Divisor Graph Width",
+        "solved_by": 460,
+        "solution": "205702861096933200",
+        "percentage_solved": 0.034706870300425685,
+        "points": 2881.2739130434784
+    },
+    "0882": {
+        "title": "Removing Bits",
+        "solved_by": 134,
+        "solution": "15800662276",
+        "percentage_solved": 0.01011026221795009,
+        "points": 9890.940298507463
+    },
+    "0883": {
+        "title": "Remarkable Triangles",
+        "solved_by": 99,
+        "percentage_solved": 0.007469522086395963,
+        "points": 13387.737373737375
+    },
+    "0884": {
+        "title": "Removing Cubes",
+        "solved_by": 552,
+        "solution": "1105985795684653500",
+        "percentage_solved": 0.041648244360510824,
+        "points": 2401.0615942028985
+    },
+    "0885": {
+        "title": "Sorted Digits",
+        "solved_by": 769,
+        "solution": "827850196",
+        "percentage_solved": 0.05802083317614642,
+        "points": 1723.518855656697
+    },
+    "0886": {
+        "title": "Coprime Permutations",
+        "solved_by": 258,
+        "solution": "5570163",
+        "percentage_solved": 0.019466027255456146,
+        "points": 5137.15503875969
+    },
+    "0887": {
+        "title": "Bounded Binary Search",
+        "solved_by": 235,
+        "solution": "39896187138661622",
+        "percentage_solved": 0.017730683740434863,
+        "points": 5639.940425531915
+    },
+    "0888": {
+        "title": "1249 Nim",
+        "solved_by": 178,
+        "solution": "227429102",
+        "percentage_solved": 0.013430049811903853,
+        "points": 7445.988764044944
+    },
+    "0889": {
+        "title": "Rational Blancmange",
+        "solved_by": 115,
+        "percentage_solved": 0.008676717575106421,
+        "points": 11525.095652173914
+    },
+    "0890": {
+        "title": "Binary Partitions",
+        "solved_by": 169,
+        "percentage_solved": 0.01275100234950422,
+        "points": 7842.5207100591715
+    },
+    "0891": {
+        "title": "Ambiguous Clock",
+        "solved_by": 147,
+        "solution": "1541414",
+        "percentage_solved": 0.01109110855252734,
+        "points": 9016.231292517006
+    },
+    "0892": {
+        "title": "Zebra Circles",
+        "solved_by": 153,
+        "solution": "469137427",
+        "percentage_solved": 0.011543806860793761,
+        "points": 8662.653594771242
+    },
+    "0893": {
+        "title": "Matchsticks",
+        "solved_by": 555,
+        "solution": "26688208",
+        "percentage_solved": 0.04187459351464403,
+        "points": 2388.082882882883
+    },
+    "0894": {
+        "title": "Spiral of Circles",
+        "solved_by": 304,
+        "solution": "0.7718678168",
+        "percentage_solved": 0.022936714285498715,
+        "points": 4359.8223684210525
+    },
+    "0895": {
+        "title": "Gold & Silver Coin Game II",
+        "solved_by": 75,
+        "percentage_solved": 0.005658728853330275,
+        "points": 17671.81333333333
+    },
+    "0896": {
+        "title": "Divisible Ranges",
+        "solved_by": 208,
+        "solution": "274229635640",
+        "percentage_solved": 0.015693541353235963,
+        "points": 6372.048076923077
+    },
+    "0897": {
+        "title": "Maximal $n$-gon in a region",
+        "solved_by": 360,
+        "solution": "1.599827123",
+        "percentage_solved": 0.02716189849598532,
+        "points": 3681.6277777777777
+    },
+    "0898": {
+        "title": "Claire Voyant",
+        "solved_by": 274,
+        "solution": "0.9861343531",
+        "percentage_solved": 0.020673222744166605,
+        "points": 4837.175182481752
+    },
+    "0899": {
+        "title": "DistribuNim I",
+        "solved_by": 430,
+        "solution": "10784223938983273",
+        "percentage_solved": 0.03244337875909358,
+        "points": 3082.2930232558138
+    },
+    "0900": {
+        "title": "DistribuNim II",
+        "solved_by": 130,
+        "percentage_solved": 0.009808463345772477,
+        "points": 10195.276923076923
+    },
+    "0901": {
+        "title": "Well Drilling",
+        "solved_by": 372,
+        "solution": "2.364497769",
+        "percentage_solved": 0.028067295112518164,
+        "points": 3562.8655913978496
+    },
+    "0902": {
+        "title": "Permutation Powers",
+        "solved_by": 157,
+        "solution": "343557869",
+        "percentage_solved": 0.011845605732971377,
+        "points": 8441.949044585986
+    },
+    "0903": {
+        "title": "Total Permutation Powers",
+        "solved_by": 101,
+        "solution": "128553191",
+        "percentage_solved": 0.007620421522484771,
+        "points": 13122.633663366336
+    },
+    "0904": {
+        "title": "Pythagorean Angle",
+        "solved_by": 198,
+        "solution": "880652522278760",
+        "percentage_solved": 0.014939044172791925,
+        "points": 6693.868686868687
+    },
+    "0905": {
+        "title": "Now I Know",
+        "solved_by": 293,
+        "solution": "70228218",
+        "percentage_solved": 0.022106767387010274,
+        "points": 4523.5017064846415
+    },
+    "0906": {
+        "title": "A Collective Decision",
+        "solved_by": 194,
+        "percentage_solved": 0.014637245300614311,
+        "points": 6831.886597938144
+    },
+    "0907": {
+        "title": "Stacking Cups",
+        "solved_by": 235,
+        "solution": "196808901",
+        "percentage_solved": 0.017730683740434863,
+        "points": 5639.940425531915
+    },
+    "0908": {
+        "title": "Clock Sequence II",
+        "solved_by": 118,
+        "percentage_solved": 0.008903066729239633,
+        "points": 11232.084745762711
+    },
+    "0909": {
+        "title": "L-expressions I",
+        "solved_by": 123,
+        "percentage_solved": 0.00928031531946165,
+        "points": 10775.49593495935
+    },
+    "0910": {
+        "title": "L-expressions II",
+        "solved_by": 61,
+        "percentage_solved": 0.004602432800708624,
+        "points": 21727.639344262294
+    },
+    "0911": {
+        "title": "Khinchin Exceptions",
+        "solved_by": 161,
+        "solution": "5679.934966",
+        "percentage_solved": 0.012147404605148989,
+        "points": 8232.211180124224
+    },
+    "0912": {
+        "title": "Where are the Odds?",
+        "solved_by": 173,
+        "solution": "674045136",
+        "percentage_solved": 0.013052801221681834,
+        "points": 7661.190751445087
+    },
+    "0913": {
+        "title": "Row-major vs Column-major",
+        "solved_by": 125,
+        "solution": "2101925115560555020",
+        "percentage_solved": 0.00943121475555046,
+        "points": 10603.088
+    }
+}
