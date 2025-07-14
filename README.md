@@ -1,4 +1,5 @@
 # ProjectEulerAISolver
+This project was done as partial fulfillment of the requirements of the 2360651 Technion course on advanced topics in software engineering, in the spring semester of the academic year 2024/25, under the supervision of Yossi GIl
 # ProjectEulerSolver.wl
 
 A WolframScript utility that uses the OpenAI API to automatically generate, execute, analyze, and optimize Mathematica solutions for Project Euler problems.
