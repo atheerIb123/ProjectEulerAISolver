@@ -30,4 +30,10 @@ A `wolframscript` utility that uses **OpenAI** or **Gemini** APIs to automatical
 ---
 
 The Logs page in the OpenAI dashboard shows the full backlog of API calls made during the code collection phase, where the script queried each Project Euler problem and extracted Mathematica code responses using the selected model, here is an example image that shows extracted code for the very last problems:
+
 <img width="1919" height="818" alt="image" src="https://github.com/user-attachments/assets/49b721c2-e071-485b-970c-0b61aff54ab1" />
+
+Here is also an example of the code that gpt 4o extracted for problem number 912:
+<img width="1915" height="811" alt="image" src="https://github.com/user-attachments/assets/5dd57622-0608-4ccf-9fbe-c4806f477ab0" />
+
+The execution results are found in the execution_results_20250708_2000.json and that is after executing all the collected AI code for all the relevant problems with analysis of executin, fetch time and also the amount of problems that were solved correctly by the AI model.
